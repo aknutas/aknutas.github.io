@@ -9,14 +9,15 @@ relative_permalinks: false
 
 # Setup
 title:            'Antti Knutas'
-#tagline:          'Researcher, programmer, photographer. CSCL, data mining, bibliometrics.'
+tagline:          'Researcher, programmer, photographer. CSCW, data mining, bibliometrics.'
 description:      'Researcher, programmer, photographer. <br/> Computer-supported collaboration, data mining, bibliometrics.'
 url:              http://anttiknutas.net
 baseurl:          /
 
 author:
   name:           'Antti Knutas'
-  url:            https://anttiknutas.net
+  url:            http://anttiknutas.net
+
 
 paginate:         5
 

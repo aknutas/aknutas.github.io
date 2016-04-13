@@ -3,28 +3,26 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I'm a researcher at [Lappeenranta University of Technology](http://www.lut.fi) School of Business and Management, working in [Innovation and Software](http://www.lut.fi/web/en/school-of-business-and-management/research/innovation-and-software). My current research interests include computer-supported collaboration, data mining, social network analysis, computer-facilitated education and bibliometrics. I am also involved with the [NAILS project](http://nailsproject.net) and [The Contrivance Engine](http://www.tce.fi).
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+You can find more information about my current projects in this website, from my list of [publications](/publications/) or in the following pages.
 
-There are currently two themes built on Poole:
+ * [GitHub project page](https://github.com/aknutas/)
+ * LinkedIn
+ * LUT Research Portal
+ * Google Scholar Profile
+ * ResearchGate Profile
+ * My Twitter feed
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### Cool Projects
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Some cool projets I have been involved in:
 
-## Setup
+* [NAILS project](http://nailsproject.net) - cloud-based bibliometrics. What can be more nifty than that?
+* [TinyCircle](https://github.com/aknutas/TinyCircle) - a peer to peer mobile prototype application from 2012 that routed around blockages and censorship. See the [Youtube video](http://youtu.be/N1Uz0OsoEcU) for more information.
+* [Automatic Social Network Analysis](https://github.com/aknutas/sna-saga) for online forums.
+* [Snooze Ry.](http://www.snooze.fi) I'm a member of the board in a Finnish youth organization that arranges LAN parties.
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Have questions, proposals or something that we could collaborate on? Drop me a [message in Twitter](https://twitter.com/aknutas).
 
 Thanks for reading!
