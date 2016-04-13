@@ -1,6 +1,12 @@
 ---
 layout: post
 title: The NAILS Project
+tags:
+    - bibliometrics
+    - data mining
+    - social network analysis
+    - cloud computing
+    - science
 published: true
 ---
 

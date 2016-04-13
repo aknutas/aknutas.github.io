@@ -1,6 +1,12 @@
 ---
 layout: post
 title: 'Computer-Supported Collaborative Learning in Software Engineering Education: A Systematic Mapping Study'
+tags:
+    - bibliometrics
+    - computer-supported collaboration
+    - systematic mapping study
+    - literature review
+    - science
 published: true
 ---
 
