@@ -7,12 +7,17 @@ I'm a researcher at [Lappeenranta University of Technology](http://www.lut.fi) S
 
 You can find more information about my current projects in this website, from my list of [publications](/publications/) or in the following pages.
 
+##### Social Media
+
+ * [My Twitter feed](https://twitter.com/aknutas)
+ * [LinkedIn](https://www.linkedin.com/in/anttiknutas)
+
+##### Research/Project Sites
+
  * [GitHub project page](https://github.com/aknutas/)
- * LinkedIn
- * LUT Research Portal
- * Google Scholar Profile
- * ResearchGate Profile
- * My Twitter feed
+ * [Google Scholar Profile](https://scholar.google.com/citations?user=svyPd-YAAAAJ)
+ * [ResearchGate Profile](https://www.researchgate.net/profile/Antti_Knutas)
+ * [LUT Research Portal](http://research.cc.lut.fi/converis-lut/publicweb/person/9978)
 
 ### Cool Projects
 
