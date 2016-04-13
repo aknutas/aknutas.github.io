@@ -4,7 +4,7 @@ title: 'Computer-Supported Collaborative Learning in Software Engineering Educat
 published: true
 ---
 
-New! My systematic mapping study on Computer-Supported Collaborative Learning in Software Engineering Education has now been published. It cites and summarizes the results of over a hundred publications in the field of CSCL.
+New! My systematic mapping study on Computer-Supported Collaborative Learning in Software Engineering Education [has now been published](https://www.researchgate.net/publication/288184552_Computer-Supported_Collaborative_Learning_in_Software_Engineering_Education_A_Systematic_Mapping_Study). It cites and summarizes the results of over a hundred publications in the field of CSCL.
 
 #### Wut?
 A systematic mapping study (SMS) is a secondary study that aims at classification and thematic analysis of earlier research. According to [Kitchenham and Charters](http://www.elsevier.com/__data/promis_misc/525444systematicreviewsguide.pdf) performing a SMS can be especially suitable if few literature reviews are available on the topic and there is a need to get a general overview of the field of interest. It can also be used to identify research gaps in the current state of research.
