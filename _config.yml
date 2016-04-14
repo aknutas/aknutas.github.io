@@ -12,6 +12,7 @@ title:            'Antti Knutas'
 tagline:          'Researcher, programmer, photographer. CSCW, gamification, data mining.'
 description:      'Researcher, programmer, photographer. <br/> Computer-supported collaboration, data mining, gamification.'
 url:              http://anttiknutas.net
+baseurl:          ''
 
 author:
   name:           'Antti Knutas'
