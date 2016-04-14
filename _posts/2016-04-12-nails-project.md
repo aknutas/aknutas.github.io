@@ -10,6 +10,17 @@ tags:
 published: true
 ---
 
+{% highlight R %}
+ggplot(top25, 
+       aes(PublicationName, PublicationTotalCitations)) + 
+    geom_bar(stat = "identity", fill = "orange") + 
+    coord_flip() +
+    theme(legend.position = "none") +
+    ggtitle("Most cited publication venues") + 
+    xlab("Publication venue") + ylab("Total times cited")
+{% endhighlight %}
+*Figure: Some visualization code from NAILS*
+
 For the first article in my blog I'll introduce the [NAILS project](http://nailsproject.net). It is a collection of cloud-based tools for performing statistical and Social Network Analysis (SNA) on citation data. SNA is a new way for researchers to map large datasets and get insights from new angles by analyzing connections between articles. As the amount of publications grows on any given field, automatic tools for this sort of analysis are becoming increasingly important prior to starting research on new fields. *nails* also provides useful data when performing systematic mapping studies in scientific literature.
 
 ### Science!
