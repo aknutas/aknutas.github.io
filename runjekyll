@@ -1,0 +1,2 @@
+#!/bin/bash
+jekyll serve --port $PORT --host $IP --future --drafts

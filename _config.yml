@@ -14,11 +14,13 @@ description:      'Researcher, programmer, photographer. <br/> Computer-supporte
 url:              http://anttiknutas.net
 baseurl:          ''
 
+# Author details
 author:
   name:           'Antti Knutas'
   url:            http://anttiknutas.net
 
-
+# Other settings
+future:           false
 paginate:         5
 
 # Custom vars

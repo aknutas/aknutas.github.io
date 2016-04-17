@@ -9,7 +9,7 @@ tags:
 published: true
 ---
 
-![alt text](/assets/img/2015-06-01-cscl-gamification.png)
+![Figure: A Social Network Graph of One Online Community](/assets/img/2015-06-01-cscl-gamification.png)
 *Figure: A Social Network Graph of One Online Community*
 
 Through the magic of backdating I'm able to blog about our case study on gamification! A couple years back we did a case study on applying gamified online collaboration to an introduction to programming course with the help of the [Q2A platform](http://www.question2answer.org/). The case study on increasing collaborative communications with gamification had positive outcomes in increasing the students' mutual online support. The case study paper got a pretty good reception, too, and was the 6th most downloaded article in the conference's digital library at the time. Now we are working on our gamified platform and I hope to blog about the new system soon.

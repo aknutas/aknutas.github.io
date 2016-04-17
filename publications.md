@@ -16,7 +16,7 @@ Ikonen, J., Knutas, A., Wu, Y., & Agudo, I. (2015, November). Is the world ready
 
 #### Gamification
 Knutas, A., Ikonen, J., Nikula, U., & Porras, J. (2014, June). Increasing collaborative communications in a programming course with gamification: a case study. *In Proceedings of the 15th International Conference on Computer Systems and Technologies (pp. 370-377)*. ACM.
-([ACM](http://dl.acm.org/citation.cfm?id=2659620) | [Preprint from ResearchGate](https://www.researchgate.net/publication/268060789_Increasing_collaborative_communications_in_a_programming_course_with_gamification_A_case_study?ev=prf_pub) )
+([ACM](http://dl.acm.org/citation.cfm?id=2659620) | [Preprint from ResearchGate](https://www.researchgate.net/publication/268060789_Increasing_collaborative_communications_in_a_programming_course_with_gamification_A_case_study?ev=prf_pub))
 <br/>
 <br/>
 
