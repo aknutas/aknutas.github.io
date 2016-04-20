@@ -3,6 +3,7 @@ layout: post
 title: 'Gamifying an Introduction to Programming Course: A Case Study'
 tags:
     - data mining
+    - data analysis
     - social network analysis
     - gamification
     - computer-supported collaboration
