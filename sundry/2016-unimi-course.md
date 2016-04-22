@@ -1,6 +1,6 @@
 ---
 layout: sundry
-title: Computer-supported collaboration, gamification and applied research methods
+title: Computer-supported collaboration, gamification and analysis methods
 tags:
     - course
     - collaboration
@@ -9,7 +9,7 @@ tags:
 published: true
 ---
 
-Welcome to the supplementary course page for the three day intensive format course on *computer-supported collaboration, gamification and applied research methods* that will be arranged at the [University of Milan](http://www.unimi.it/). This page will have links, slides, reading material and other additional documents for the course. Feel free to contact me on [Twitter](https://twitter.com/aknutas) or by email (firstname.lastname@lut.fi), if you have any questions concerning the course.
+Welcome to the supplementary course page for the three day intensive format course on *computer-supported collaboration, gamification and analysis methods* that will be arranged at the [University of Milan](http://www.unimi.it/). This page will have links, slides, reading material and other additional documents for the course. Feel free to contact me on [Twitter](https://twitter.com/aknutas) or by email (firstname.lastname@lut.fi), if you have any questions concerning the course.
 
 #### Abstract
 Computer-supported collaboration is a central part of current information-based society, with software development, information systems and even computer games depending on online tools facilitating work between individuals. How does computer-supported tools (or the lack thereof) affect these communities of experts? Gamification is a new, trendy subject that is used to encouraged positive computer system user activities and positive collaboration. How is it currently being researched, what are the pitfalls and success stories? The course also touches on data mining techniques in used in the research of gamified and collaboration systems.
