@@ -8,16 +8,19 @@ tags:
     - exercise
     - video games
     - computer games
-published: false
+published: true
 ---
 
-![Games Wordcloud](/assets/img/exercise-videogames.png)
-*Figure: Games that Were Associated in the Survey Results*
+![Games Wordcloud](/assets/img/2016-04-25-exercise-videogames.png)
+*Figure: Games that were associated with each other in the survey results*
 
 The previous two articles on [Gamifying CSCL]({% post_url 2015-06-01-cscl-gamification %}) and [Building Fair CS:GO Teams]({% post_url 2016-04-18-csgo-ladder-machinelearning %}) are an excellent segue to today's topic. A year back we made an survey on how motivated video game players would be to exercise for in-game rewards. Additionally we performed a systematic mapping study on current scientific literature handling the topic. We found that it has not been a much researched subject and the attitudes of players were open to connecting video games and exercise by gamification. 
 
+#### TL;DR
+According to our survey casual videogame players were willing to do physical exercise for in-game rewards. (with the survey mostly concerning Counterstrike players)
+
 #### Survey on Player Opinions of Using Physical Exercise as Tool to Earn In-Game Rewards
-To gain an understanding on how players would feel about connecting physical activities with video games, we carried out a questionnaire to possible end users. The questionnaire was targeted to Counter Strike players and  The responses showed that there is an audience for using in-game rewards to motivate users to exercise, especially among the segment that does not currently exercise a lot. The questionnaire received 47 answers from 44 males and 3 females. Majority (60%) of respondents were between 19-30 years old, 31% were between 10-18 and 9% were 31-50 years old. Most respondents (42%) told that they play more than 3 hours/day, 30% play 2-3 hours/day and 27% said that they play less than 2 hours per day.
+To gain an understanding on how players would feel about connecting physical activities with video games, we carried out a questionnaire to possible end users. The questionnaire was targeted to Counter Strike players and the responses showed that there is an audience for using in-game rewards to motivate users to exercise, especially among the segment that does not currently exercise a lot. The questionnaire received 47 answers from 44 males and 3 females. Majority (60%) of respondents were between 19-30 years old, 31% were between 10-18 and 9% were 31-50 years old. Most respondents (42%) told that they play more than 3 hours/day, 30% play 2-3 hours/day and 27% said that they play less than 2 hours per day.
 
 A weak inverse correlation was found between people interested doing a physical task to unlock a weapon and the amount of exercise the respondent was doing (R=-0.31; p=0.04). This means that the respondents who exercise a lot are not willing to do extra task for in-game rewards, but conversely respondents who exercise little could be motivated to exercise more with ingame rewards. People who currently exercise 1 to 7 hours per week would be most motivated by in-game rewards and people who exercise 8 to 14 hours per week would be least motivated by rewards.
 
