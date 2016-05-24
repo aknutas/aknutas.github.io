@@ -19,6 +19,14 @@ Computer-supported collaboration is a central part of current information-based 
 * Gamification: What it is and how to apply it to collaboration. Designing gamification for collaboration and analyzing system data. 
 * Applied data analysis techniques. How to mine the wealth of data from collaboration platforms? A practical session on the third day involves a demonstration and application of exploratory data analysis tools.
 
+#### Links and Other Material
+* Day 1 slides on collaboration [download](https://onedrive.live.com/redir?resid=8C3643CF8B080776!91327&authkey=!AKxjEA1rpe9To4o&ithint=file%2cpptx)
+* KNIME software [homepage](http://www.knime.org/)
+* Gephi software [homepage](https://gephi.org/)
+
+#### Antti's research / case studies on gamification
+* Knutas, A., Ikonen, J., Nikula, U., & Porras, J. (2014, June). Increasing collaborative communications in a programming course with gamification: a case study. In Proceedings of the 15th International Conference on Computer Systems and Technologies (pp. 370-377). ACM. [https://www.researchgate.net/publication/268060789_Increasing_collaborative_communications_in_a_programming_course_with_gamification_A_case_study?ev=prf_pub](Preprint from ResearchGate)
+
 #### Preliminary Readings on Gamification and Collaboration
 Optional, but good scientific articles that discuss different issues on gamification and collaboration:
 
