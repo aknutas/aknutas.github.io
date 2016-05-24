@@ -25,7 +25,7 @@ Computer-supported collaboration is a central part of current information-based 
 * Gephi software [homepage](https://gephi.org/)
 
 #### Antti's research / case studies on gamification
-* Knutas, A., Ikonen, J., Nikula, U., & Porras, J. (2014, June). Increasing collaborative communications in a programming course with gamification: a case study. In Proceedings of the 15th International Conference on Computer Systems and Technologies (pp. 370-377). ACM. [https://www.researchgate.net/publication/268060789_Increasing_collaborative_communications_in_a_programming_course_with_gamification_A_case_study?ev=prf_pub](Preprint from ResearchGate)
+* Knutas, A., Ikonen, J., Nikula, U., & Porras, J. (2014, June). Increasing collaborative communications in a programming course with gamification: a case study. In Proceedings of the 15th International Conference on Computer Systems and Technologies (pp. 370-377). ACM. [Preprint from ResearchGate](https://www.researchgate.net/publication/268060789_Increasing_collaborative_communications_in_a_programming_course_with_gamification_A_case_study?ev=prf_pub)
 
 #### Preliminary Readings on Gamification and Collaboration
 Optional, but good scientific articles that discuss different issues on gamification and collaboration:
