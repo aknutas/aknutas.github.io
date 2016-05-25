@@ -21,6 +21,7 @@ Computer-supported collaboration is a central part of current information-based 
 
 #### Links and Other Material
 * Day 1 slides on collaboration [download](https://onedrive.live.com/redir?resid=8C3643CF8B080776!91327&authkey=!AKxjEA1rpe9To4o&ithint=file%2cpptx)
+* Day 2 slides on gamification research [download](https://onedrive.live.com/redir?resid=8C3643CF8B080776!91374&authkey=!AG17_FgfDhlZI4I&ithint=file%2cpptx)
 * KNIME software [homepage](http://www.knime.org/)
 * Gephi software [homepage](https://gephi.org/)
 
