@@ -50,3 +50,17 @@ Optional, but good scientific articles that discuss different issues on gamifica
 ##### Design Science Research vs. Action Research
 * Positive view of AR and DSR: Järvinen, P. (2007). Action research is similar to design science. Quality & Quantity, 41(1), 37-54. [link to article](http://link.springer.com/article/10.1007/s11135-005-5427-1)
 * Negative view of AR and DSR: Iivari, J., & Venable, J. (2009). Action research and design science research–seemingly similar but decisively dissimilar. In European Conference on Information Systems (Vol. 17, pp. 1-13). [link to article](http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1025&context=ecis2009)
+
+#### Material on Systematic Literature Reviews
+* Kitchenham, B. A., & Charters, S. (2007). Guidelines for performing systematic literature reviews in software engineering (EBSE Technical Report No. EBSE-2007-01). UK: Department of Computer Science, University of Durham. Retrieved from http://www.citeulike.org/group/14013/article/7874938
+* Kitchenham, B., Pearl Brereton, O., Budgen, D., Turner, M., Bailey, J., & Linkman, S. (2009). Systematic literature reviews in software engineering – A systematic literature review. Information and Software Technology, 51(1), 7–15. http://doi.org/10.1016/j.infsof.2008.09.009
+* Penzenstadler, B., Raturi, A., Richardson, D., Calero, C., Femmer, H., & Franch, X. (2014). Systematic mapping study on software engineering for sustainability (SE4S). In Proceedings of the 18th International Conference on Evaluation and Assessment in Software Engineering (p. 14). ACM. Retrieved from http://dl.acm.org/citation.cfm?id=2601256
+* Petersen, K., Feldt, R., Mujtaba, S., & Mattsson, M. (2008). Systematic mapping studies in software engineering. In 12th International Conference on Evaluation and Assessment in Software Engineering (Vol. 17, p. 1). Retrieved from http://www.rbsv.eu/courses/rmtw/mtrl/SM.pdf
+* Wieringa, R., Maiden, N., Mead, N., & Rolland, C. (2006). Requirements engineering paper classification and evaluation criteria: a proposal and a discussion. Requirements Engineering, 11(1), 102–107. http://doi.org/10.1007/s00766-005-0021-6
+* Knutas, A., Hajikhani, A., Salminen, J., Ikonen, J., & Porras, J. (2015). Cloud-based bibliometric analysis service for systematic mapping studies. In Proceedings of the 16th International Conference on Computer Systems and Technologies (pp. 184–191). ACM. Retrieved from http://dl.acm.org/citation.cfm?id=2812442
+*
+#### LDA Text Mining
+* Blei, D. M. (2012). Probabilistic topic models. Communications of the ACM, 55(4), 77. http://doi.org/10.1145/2133806.2133826
+* Blei, D. M., & Lafferty, J. (n.d.). Topic Models. Retrieved April 27, 2016, from https://www.cs.princeton.edu/~blei/papers/BleiLafferty2009.pdf
+* Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). Latent dirichlet allocation. The Journal of Machine Learning Research, 3, 993–1022.
+* Wang, C., & Blei, D. M. (2011). Collaborative topic modeling for recommending scientific articles (p. 448). ACM Press. http://doi.org/10.1145/2020408.2020480
