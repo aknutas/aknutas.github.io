@@ -22,8 +22,10 @@ Computer-supported collaboration is a central part of current information-based 
 #### Links and Other Material
 * Day 1 slides on collaboration [download](https://onedrive.live.com/redir?resid=8C3643CF8B080776!91327&authkey=!AKxjEA1rpe9To4o&ithint=file%2cpptx)
 * Day 2 slides on gamification research [download](https://onedrive.live.com/redir?resid=8C3643CF8B080776!91374&authkey=!AG17_FgfDhlZI4I&ithint=file%2cpptx)
-* KNIME software [homepage](http://www.knime.org/)
 * Gephi software [homepage](https://gephi.org/)
+* KNIME software [homepage](http://www.knime.org/)
+  * KNIME quickstart [PDF link](https://tech.knime.org/files/KNIME_quickstart.pdf) 
+* NAILS project [homepage](http://nailsproject.net/) 
 
 #### Antti's research / case studies on gamification
 * Knutas, A., Ikonen, J., Nikula, U., & Porras, J. (2014, June). Increasing collaborative communications in a programming course with gamification: a case study. In Proceedings of the 15th International Conference on Computer Systems and Technologies (pp. 370-377). ACM. [Preprint from ResearchGate](https://www.researchgate.net/publication/268060789_Increasing_collaborative_communications_in_a_programming_course_with_gamification_A_case_study?ev=prf_pub)
