@@ -11,15 +11,39 @@ published: true
 
 Welcome to the supplementary course page for the three day intensive format course on *computer-supported collaboration, gamification and analysis methods* that will be arranged at the [University of Milan](http://www.unimi.it/). This page will have links, slides, reading material and other additional documents for the course. Feel free to contact me on [Twitter](https://twitter.com/aknutas) or by email (firstname.lastname@lut.fi), if you have any questions concerning the course.
 
-#### Abstract
+---
+**Table of Contents**
+
+* TOC
+{:toc}
+---
+
+### Abstract
 Computer-supported collaboration is a central part of current information-based society, with software development, information systems and even computer games depending on online tools facilitating work between individuals. How does computer-supported tools (or the lack thereof) affect these communities of experts? Gamification is a new, trendy subject that is used to encouraged positive computer system user activities and positive collaboration. How is it currently being researched, what are the pitfalls and success stories? The course also touches on data mining techniques in used in the research of gamified and collaboration systems.
 
-#### Syllabus (tentative)
+### Syllabus (tentative)
 * Computer-supported collaboration: A perspective on software development and communities of experts at universities.
 * Gamification: What it is and how to apply it to collaboration. Designing gamification for collaboration and analyzing system data. 
 * Applied data analysis techniques. How to mine the wealth of data from collaboration platforms? A practical session on the third day involves a demonstration and application of exploratory data analysis tools.
 
-#### Links and Other Material
+### Practical Assignment
+**Summary**
+The course's practical assignment is to analyze a community using the theory of collaboration presented in this course and to apply gamification to improve the situation in the community. You may choose freely which aspect to change/improve. Be as creative as you'd like! The result of the assignment is a short (2-4 pages) scientific paper.
+
+**Requirements**
+Two to four page scientific report, that contains the following:
+
+1. A qualitative/speculative analysis of a collaborative community of your choice by using one of the presented theories of collaboration. If you can analyze a community that is a part of you PhD thesis research that is optimal. If you do not have a suitable community available, you may for example examine [Stack Overflow](http://stackoverflow.com/).
+  * OR if you have quantitative data of a community already available, you may instead use KNIME or Gephi to do a social network analysis of the community and then analyze that using the theories of collaboration.
+3. A plan of how to improve the situation in the community using gamification. Please use one of the presented theories.
+4. Has scientific references to peer-reviewed conference or journal articles.
+5. Uses the ACM template and reference format. More information and sample template [available here](https://www.acm.org/publications/proceedings-template). There is also a [guide for formatting references](https://www.library.unh.edu/research-support/citation-styles/acm-style).
+
+Remember the length of the paper! Do not go into too much (or too little) detail. If you are uncertain, please ask for advice.
+
+**Returning and Deadline** The report is returned by email to Antti Knutas (firstname.lastname@lut.fi) in the PDF file format. The deadline is 30.6. If you have issues or need advice, please also contact by email. Let's discuss and solve them!
+
+### Links and Other Material
 * Day 1 slides on collaboration [download](https://onedrive.live.com/redir?resid=8C3643CF8B080776!91327&authkey=!AKxjEA1rpe9To4o&ithint=file%2cpptx)
 * Day 2 slides on gamification research [download](https://onedrive.live.com/redir?resid=8C3643CF8B080776!91374&authkey=!AG17_FgfDhlZI4I&ithint=file%2cpptx)
 * Gephi software [homepage](https://gephi.org/)
@@ -28,11 +52,11 @@ Computer-supported collaboration is a central part of current information-based 
 * NAILS project [homepage](http://nailsproject.net/) 
 * Sample chapters from Antti's Doctoral Thesis draft that discuss the Design Science Research Process [download](https://onedrive.live.com/redir?resid=8C3643CF8B080776!91491&authkey=!ANTAEGQMM0Mjdfc&ithint=file%2cpdf)
 
-#### Antti's research / case studies on gamification
+### Antti's research / case studies on gamification
 * Knutas, A., Ikonen, J., Nikula, U., & Porras, J. (2014, June). Increasing collaborative communications in a programming course with gamification: a case study. In Proceedings of the 15th International Conference on Computer Systems and Technologies (pp. 370-377). ACM. [Preprint from ResearchGate](https://www.researchgate.net/publication/268060789_Increasing_collaborative_communications_in_a_programming_course_with_gamification_A_case_study?ev=prf_pub)
 * Knutas, A., Ikonen, J., Maggiorini, D., Ripamonti, L., Porras J., 2016. Creating Software Engineering Student Profiles for Adaptive Collaboration Gamification Design. International Journal of Human Capital and Information Technology Professionals. [Preprint](https://onedrive.live.com/redir?resid=8C3643CF8B080776!91355&authkey=!AID_pXSiDTc3868&ithint=file%2cpdf) - will be published Q3 2016
 
-#### Preliminary Readings on Gamification and Collaboration
+### Preliminary Readings on Gamification and Collaboration
 Optional, but good scientific articles that discuss different issues on gamification and collaboration:
 
 * Groh, F. (2012). Gamification: State of the art definition and utilization. Institute of Media Informatics Ulm University, 39. [link to article](http://d-nb.info/1020022604/34/#page=39)
@@ -42,17 +66,17 @@ Optional, but good scientific articles that discuss different issues on gamifica
 * Kittur, A., Nickerson, J. V., Bernstein, M., Gerber, E., Shaw, A., Zimmerman, J., ... & Horton, J. (2013, February). The future of crowd work. In Proceedings of the 2013 conference on Computer supported cooperative work (pp. 1301-1318). ACM. [link to article](http://www2.cs.siu.edu/~dche2/files/futureofcrowdwork-cscw2013.pdf)
 * Breslow, L., Pritchard, D. E., DeBoer, J., Stump, G. S., Ho, A. D., & Seaton, D. T. (2013). Studying learning in the worldwide classroom: Research into edX's first MOOC. Research & Practice in Assessment, 8. [link to article](https://goo.gl/0G9I06)
 
-#### Sources on Design Science Research
+### Sources on Design Science Research
 * Hevner, A., & Chatterjee, S. (2010). Design Research in Information Systems (Vol. 22). Boston, MA: Springer US. [link to article](http://link.springer.com/10.1007/978-1-4419-5653-8)
 * Hevner, A. R. (2007). The three cycle view of design science research. Scandinavian Journal of Information Systems, 19(2), 87. [link to article](http://community.mis.temple.edu/seminars/files/2009/10/Hevner-SJIS.pdf)
 * Hevner, A. R., March, S. T., Park, J., & Ram, S. (2004). Design science in information systems research. MIS Q., 28(1), 75–105. [link to article](http://dl.acm.org/citation.cfm?id=2017212.2017217)
 * Peffers, K., Tuunanen, T., Rothenberger, M. A., & Chatterjee, S. (2007). A design science research methodology for information systems research. Journal of Management Information Systems, 24(3), 45–77. [link to article](http://mesharpe.metapress.com/index/276818W6PN4T5483.pdf)
 
-##### Design Science Research vs. Action Research
+#### Design Science Research vs. Action Research
 * Positive view of AR and DSR: Järvinen, P. (2007). Action research is similar to design science. Quality & Quantity, 41(1), 37-54. [link to article](http://link.springer.com/article/10.1007/s11135-005-5427-1)
 * Negative view of AR and DSR: Iivari, J., & Venable, J. (2009). Action research and design science research–seemingly similar but decisively dissimilar. In European Conference on Information Systems (Vol. 17, pp. 1-13). [link to article](http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1025&context=ecis2009)
 
-#### Material on Systematic Literature Reviews
+### Material on Systematic Literature Reviews
 * Kitchenham, B. A., & Charters, S. (2007). Guidelines for performing systematic literature reviews in software engineering (EBSE Technical Report No. EBSE-2007-01). UK: Department of Computer Science, University of Durham. Retrieved from <http://www.citeulike.org/group/14013/article/7874938>
 * Kitchenham, B., Pearl Brereton, O., Budgen, D., Turner, M., Bailey, J., & Linkman, S. (2009). Systematic literature reviews in software engineering – A systematic literature review. Information and Software Technology, 51(1), 7–15. <http://doi.org/10.1016/j.infsof.2008.09.009>
 * Penzenstadler, B., Raturi, A., Richardson, D., Calero, C., Femmer, H., & Franch, X. (2014). Systematic mapping study on software engineering for sustainability (SE4S). In Proceedings of the 18th International Conference on Evaluation and Assessment in Software Engineering (p. 14). ACM. Retrieved from <http://dl.acm.org/citation.cfm?id=2601256>
@@ -60,7 +84,7 @@ Optional, but good scientific articles that discuss different issues on gamifica
 * Wieringa, R., Maiden, N., Mead, N., & Rolland, C. (2006). Requirements engineering paper classification and evaluation criteria: a proposal and a discussion. Requirements Engineering, 11(1), 102–107. <http://doi.org/10.1007/s00766-005-0021-6>
 * Knutas, A., Hajikhani, A., Salminen, J., Ikonen, J., & Porras, J. (2015). Cloud-based bibliometric analysis service for systematic mapping studies. In Proceedings of the 16th International Conference on Computer Systems and Technologies (pp. 184–191). ACM. Retrieved from <http://dl.acm.org/citation.cfm?id=2812442>
 
-#### LDA Text Mining
+### LDA Text Mining
 * Blei, D. M. (2012). Probabilistic topic models. Communications of the ACM, 55(4), 77. <http://doi.org/10.1145/2133806.2133826>
 * Blei, D. M., & Lafferty, J. (n.d.). Topic Models. Retrieved April 27, 2016, from <https://www.cs.princeton.edu/~blei/papers/BleiLafferty2009.pdf>
 * Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). Latent dirichlet allocation. The Journal of Machine Learning Research, 3, 993–1022.
