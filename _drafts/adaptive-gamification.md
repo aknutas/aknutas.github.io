@@ -13,7 +13,9 @@ published: true
 ![Figure: Bartle's Player Profiles](/assets/img/adaptive-gamification-half.jpg)
 *Figure: Bartle's Taxonomy of Player Types (1996)*
 
-Gamification is a hot topic in research and it has been widely applied to the web. However... (write) Our proposed solution is to use an evidence-based method for deciding which gamification elements to apply and how to apply them. In order to do this built behavior profiles with interaction analysis and profiling surveys. These profiles and the collected profiles of interactions can be used to model how different students react to gamification elements and the available goals in order to create or improve adaptive gamification systems.
+Gamification is a hot topic in research and it has been widely applied to the web. However, it is not a magic bullet for user engagement and we propose that there can be a better approach than a "one size fits all" design. Our solution is to define several different user profiles and adaptively apply them for different types of users. For example, one type of person might like having most points and being on the top of the high score and another type of user might enjoy exploring new solutions xxx...
+
+We used an evidence-based method for deciding which gamification elements to apply and how to apply them. In order to do this built behavior profiles with interaction analysis and profiling surveys. These profiles and the collected profiles of interactions can be used to model how different students react to gamification elements and the available goals in order to create or improve adaptive gamification systems.
 
 We discovered four types of activitiy profiles, compared them with Bartle types (2004) and matched them with formal elements of game design (Fullerton, 2008) that might be most attractive to each cluster. xx continue xx
 
