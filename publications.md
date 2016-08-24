@@ -15,6 +15,8 @@ Ikonen, J., Knutas, A., Wu, Y., & Agudo, I. (2015, November). Is the world ready
 <br/>
 
 #### Gamification
+Knutas, A., Ikonen, J., Maggiorini, D., Ripamonti, L., & Porras, J. (2016). [Creating Student Interaction Profiles for Adaptive Collaboration Gamification Design.](http://www.igi-global.com/article/creating-student-interaction-profiles-for-adaptive-collaboration-gamification-design/160726) International Journal of Human Capital and Information Technology Professionals (IJHCITP), 7(3), 47-62. DOI: 10.4018/IJHCITP.2016070104
+
 Knutas, A., Ikonen, J., Nikula, U., & Porras, J. (2014, June). Increasing collaborative communications in a programming course with gamification: a case study. *In Proceedings of the 15th International Conference on Computer Systems and Technologies (pp. 370-377)*. ACM.
 ([ACM](http://dl.acm.org/citation.cfm?id=2659620) | [Preprint from ResearchGate](https://www.researchgate.net/publication/268060789_Increasing_collaborative_communications_in_a_programming_course_with_gamification_A_case_study?ev=prf_pub))
 <br/>
