@@ -45,4 +45,4 @@ Below you can find a list of the activity clusters we discovered, with the corre
 <br/>
 
 ##### Reference
-Knutas, A., Ikonen, J., Maggiorini, D., Ripamonti, L., & Porras, J. (2016). [Creating Student Interaction Profiles for Adaptive Collaboration Gamification Design.](http://www.igi-global.com/article/creating-student-interaction-profiles-for-adaptive-collaboration-gamification-design/160726) International Journal of Human Capital and Information Technology Professionals (IJHCITP), 7(3), 47-62. DOI: 10.4018/IJHCITP.2016070104
+Knutas, A., Ikonen, J., Maggiorini, D., Ripamonti, L., & Porras, J. (2016). [Creating Student Interaction Profiles for Adaptive Collaboration Gamification Design.](http://www.igi-global.com/article/creating-student-interaction-profiles-for-adaptive-collaboration-gamification-design/160726) *International Journal of Human Capital and Information Technology Professionals (IJHCITP)*, 7(3), 47-62. DOI: 10.4018/IJHCITP.2016070104
