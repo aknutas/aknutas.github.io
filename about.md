@@ -12,12 +12,16 @@ You can find more information about my current projects in this website, from my
  * [My Twitter feed](https://twitter.com/aknutas)
  * [LinkedIn](https://www.linkedin.com/in/anttiknutas)
 
-##### Research/Project Sites
+##### Personal Research/Project Sites
 
  * [GitHub project page](https://github.com/aknutas/)
  * [Google Scholar Profile](https://scholar.google.com/citations?user=svyPd-YAAAAJ)
  * [ResearchGate Profile](https://www.researchgate.net/profile/Antti_Knutas)
  * [LUT Research Portal](http://research.cc.lut.fi/converis-lut/publicweb/person/9978?show=PUBLICATION)
+
+##### Research Team/Project Sites
+ * [LUT Education Research & Development Group](https://www.researchgate.net/project/LUT-Education-Research-Development) - ResearchGate site with prepublications
+ * [LUT Education Research & Development Datasets](https://zenodo.org/communities/lut-edu-research/) - open datasets and digital material
 
 ### Cool Projects
 
