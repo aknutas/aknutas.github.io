@@ -12,20 +12,21 @@ You can find more information about my current projects in this website, from my
  * [My Twitter feed](https://twitter.com/aknutas)
  * [LinkedIn](https://www.linkedin.com/in/anttiknutas)
 
-##### Personal Research/Project Sites
+##### Personal Research Sites
 
  * [GitHub project page](https://github.com/aknutas/)
  * [Google Scholar Profile](https://scholar.google.com/citations?user=svyPd-YAAAAJ)
  * [ResearchGate Profile](https://www.researchgate.net/profile/Antti_Knutas)
  * [LUT Research Portal](http://research.cc.lut.fi/converis-lut/publicweb/person/9978?show=PUBLICATION)
 
-##### Research Team/Project Sites
+##### Research Group/Project Sites
  * [LUT Education Research & Development Group](https://www.researchgate.net/project/LUT-Education-Research-Development) - ResearchGate site with prepublications
  * [LUT Education Research & Development Datasets](https://zenodo.org/communities/lut-edu-research/) - open datasets and digital material
+ * [Cyberlab project](https://www2.it.lut.fi/GRIP/about) - Cybersecurity knowledge and business development, Cyberlab for short, combines the existing knowledge regarding usability testing, explorative testing and quality assurance into a study concerning long-distance learning and gamified teaching applications.
 
 ### Cool Projects
 
-Some cool projets I have been involved in:
+Some cool projects I have been involved in:
 
 * [NAILS project](http://nailsproject.net) - cloud-based bibliometrics. What can be more nifty than that?
 * [TinyCircle](https://github.com/aknutas/TinyCircle) - a peer to peer mobile prototype application from 2012 that routed around blockages and censorship. See the [Youtube video](http://youtu.be/N1Uz0OsoEcU) for more information.
