@@ -10,7 +10,7 @@ tags:
 published: true
 ---
 
-![Figure: Screenshot from a Video Lecture on Gamification](/assets/img/2017-05-03-video-instruction.jpg)
+![Figure: Screenshot from a Video Lecture on Gamification](/assets/img/2017-05-01-video-lectures.jpg)
 *Figure: Screenshot from a Video Lecture on Gamification*
 
 In this research paper we publish our results from a longitudal study where we observed ten courses that used video instruction as a part of a course. Overall the experiences with video-based learning were positive. The video lectures were perceived to be highly useful by the students and were rated to be the most useful component of the course in a majority of the observed courses. Also, some of the tutorial videos received a lot of traffic from external sources, indicating that the videos provided additional benefit to the wider public.
