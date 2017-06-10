@@ -9,7 +9,7 @@ tags:
 published: true
 ---
 
-Welcome to the supplementary course page for the three day intensive format course on *computer-supported collaboration, gamification and analysis methods* that will be arranged at the [University of Milan](http://www.unimi.it/). This page will have links, slides, reading material and other additional documents for the course. Feel free to contact me on [Twitter](https://twitter.com/aknutas) or by email (firstname.lastname@lut.fi), if you have any questions concerning the course.
+Welcome to the supplementary course page for the three day intensive format course on *computer-supported collaboration, gamification and analysis methods* that will be arranged at the [University of Milan](http://www.unimi.it/). This page will have links, slides, reading material and other additional documents for the course. Feel free to contact me on [Twitter](https://twitter.com/aknutas) or by email (firstname.lastname@lut.fi), if you have any questions concerning the course. Please note that the included downloadable material links have expired and this page is available now for archival purposes only.
 
 ---
 **Table of Contents**
