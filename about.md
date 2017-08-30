@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I'm a D.Sc. (Tech) and a researcher at [Lappeenranta University of Technology](http://www.lut.fi) School of Business and Management, working in the [Software Engineering](http://www.lut.fi/web/en/school-of-business-and-management/research/industrial-engineering-and-management)  competence area. My current research interests include computer-supported collaboration, computer-supported education, gamification, data mining, social network analysis and smart cities. I am also involved in the [NAILS project](http://nailsproject.net) and [The Contrivance Engine](http://www.tce.fi).
+I'm a D.Sc. (Tech) and a [postdoctoral researcher](http://www.lero.ie/people/anttiknutas) at the [Lero software research centre](http://lero.ie/aboutlero). I currently research smart city service enabled collaboration between citizens and user-centric perceived quality in smart city services. My other research interests include computer-supported collaboration, computer-supported education, gamification, data mining, social network analysis and smart cities. I also work with the [Lappeenranta University of Technology](http://www.lut.fi) [Software Engineering](http://www.lut.fi/web/en/school-of-business-and-management/research/industrial-engineering-and-management) research team. I am involved in the [NAILS project](http://nailsproject.net) and [The Contrivance Engine](http://www.tce.fi) projects.
 
 You can find more information about my current projects in this website, from my list of [publications](/publications/) or in the following pages.
 
