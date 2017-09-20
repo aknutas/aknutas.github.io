@@ -21,7 +21,7 @@ Knutas, A., Hajikhani, A., Salminen, J., Ikonen, J., & Porras, J. (2015, June). 
 <br/>
 
 #### Computer-Supported Collaborative Learning and Education
-Herala, A., Knutas, A., Vanhala, E., & Kasurinen, J. (2017). Experiences from Video Lectures in Software Engineering Education. *International Journal of Modern Education and Computer Science (IJMECS)*, 9(5), 17. ([DOI: 10.5815/ijmecs.2017.05.03](https://dx.doi.org/10.5815/ijmecs.2017.05.03) | [Preprint from ResearchGate](https://www.researchgate.net/publication/316608368_Experiences_from_Video_Lectures_in_Software_Engineering_Education))
+Herala, A., Knutas, A., Vanhala, E., & Kasurinen, J. (2017). Experiences from Video Lectures in Software Engineering Education. *International Journal of Modern Education and Computer Science (IJMECS)*, 9(5), 17. DOI: 10.5815/ijmecs.2017.05.03 ([MECS](https://dx.doi.org/10.5815/ijmecs.2017.05.03) | [Preprint from ResearchGate](https://www.researchgate.net/publication/316608368_Experiences_from_Video_Lectures_in_Software_Engineering_Education))
 
 Knutas, A., Ikonen, J., & Porras, J. (2015). COMPUTER-SUPPORTED COLLABORATIVE LEARNING IN SOFTWARE ENGINEERING EDUCATION: A SYSTEMATIC MAPPING STUDY. *International Journal on Information Technologies & Security*, 7(4).
 ([IJITS Archive](http://ijits-bg.com/ijitsarchive) | [Preprint from ResearchGate](https://www.researchgate.net/publication/288184552_Computer-Supported_Collaborative_Learning_in_Software_Engineering_Education_A_Systematic_Mapping_Study))
