@@ -16,7 +16,7 @@ Knutas, A., Ikonen, J., Nikula, U., & Porras, J. (2014, June). Increasing collab
 <br/>
 <br/>
 
-#### Smart Cities and Smart Environments
+#### Smart Cities, Services and Environments
 Ranta, T., Föhr, J., Karttunen, K., & Knutas, A. (2014). Radio frequency identification and composite container technology demonstration for transporting logistics of wood biomass. *Journal of Renewable and Sustainable Energy*, 6(1).
 ([AIP](http://dx.doi.org/10.1063/1.4862786) | [Preprint from ResearchGate](https://www.researchgate.net/profile/Kalle_Karttunen2/publication/263007196_Radio_frequency_identification_and_composite_container_technology_demonstration_for_transporting_logistics_of_wood_biomass/links/53f70cd40cf22be01c452f93.pdf))
 
