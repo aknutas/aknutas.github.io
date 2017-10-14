@@ -43,7 +43,7 @@ Deci, E. L., & Ryan, R. M. (2012). Motivation, personality, and development with
 
 Deterding, S. (2015). [The Lens of Intrinsic Skill Atoms: A Method for Gameful Design](http://dx.doi.org/10.1080/07370024.2014.993471). *Human–Computer Interaction*, 30(3–4), 294–335.
 
-Marczewski, A. (2015). [User Types](https://www.gamified.uk/user-types/). In *Even Ninja Monkeys Like to Play: Gamification, Game Thinking and Motivational Design (1st ed., pp. 65-80)*. CreateSpace Independent Publishing Platform.
+Marczewski, A. (2015). [User Types](https://www.gamified.uk/user-types/). In *Even Ninja Monkeys Like to Play: Gamification, Game Thinking and Motivational Design* (1st ed., pp. 65-80). CreateSpace Independent Publishing Platform.
 
 Tondello, G. F., Wehbe, R. R., Diamond, L., Busch, M., Marczewski, A., & Nacke, L. E. (2016). [The Gamification User Types Hexad Scale](http://doi.acm.org/10.1145/2967934.2968082). In *Proceedings of the 2016 Annual Symposium on Computer-Human Interaction in Play* (pp. 229–243). New York, NY, USA: ACM.
 
