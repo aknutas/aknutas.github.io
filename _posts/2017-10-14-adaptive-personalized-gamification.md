@@ -41,10 +41,10 @@ Knutas, A., van Roy, R., Hynninen, T., Granato, M., Kasurinen, J., & Ikonen, J. 
 ##### External References
 Deci, E. L., & Ryan, R. M. (2012). Motivation, personality, and development within embedded social contexts: An overview of self-determination theory. *The Oxford Handbook of Human Motivation*, 85–107.
 
-Deterding, S. (2015). [The Lens of Intrinsic Skill Atoms: A Method for Gameful Design](http://dx.doi.org/10.1080/07370024.2014.993471). *Human–Computer Interaction*, 30(3–4), 294–335. https://doi.org/10.1080/07370024.2014.993471
+Deterding, S. (2015). [The Lens of Intrinsic Skill Atoms: A Method for Gameful Design](http://dx.doi.org/10.1080/07370024.2014.993471). *Human–Computer Interaction*, 30(3–4), 294–335.
 
 Marczewski, A. (2015). [User Types](https://www.gamified.uk/user-types/). In *Even Ninja Monkeys Like to Play: Gamification, Game Thinking and Motivational Design (1st ed., pp. 65-80)*. CreateSpace Independent Publishing Platform.
 
 Tondello, G. F., Wehbe, R. R., Diamond, L., Busch, M., Marczewski, A., & Nacke, L. E. (2016). [The Gamification User Types Hexad Scale](http://doi.acm.org/10.1145/2967934.2968082). In *Proceedings of the 2016 Annual Symposium on Computer-Human Interaction in Play* (pp. 229–243). New York, NY, USA: ACM.
 
-Roy, R. van, & Zaman, B. (2017). [Why Gamification Fails in Education and How to Make It Successful: Introducing Nine Gamification Heuristics Based on Self-Determination Theory](http://link.springer.com/chapter/10.1007/978-3-319-51645-5_22). In M. Ma & A. Oikonomou (Eds.), *Serious Games and Edutainment Applications* (pp. 485–509). Springer International Publishing. https://doi.org/10.1007/978-3-319-51645-5_22
+Roy, R. van, & Zaman, B. (2017). [Why Gamification Fails in Education and How to Make It Successful: Introducing Nine Gamification Heuristics Based on Self-Determination Theory](http://link.springer.com/chapter/10.1007/978-3-319-51645-5_22). In M. Ma & A. Oikonomou (Eds.), *Serious Games and Edutainment Applications* (pp. 485–509). Springer International Publishing.
