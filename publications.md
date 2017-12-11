@@ -6,7 +6,7 @@ title: Publications
 Find a partial list of my academic publications below, sorted by areas of interest. Preprint PDFs are linked where available for your convenience.
 
 #### Gamification
-Kasurinen, J., Knutas, A. (2018). Publication trends in gamification: A systematic mapping study. *Computer Science Review*, 27, 33-44. DOI: 10.1145/3123024.3123147 ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1574013716301769) | [Request preprint from ResearchGate](https://www.researchgate.net/publication/321626181_Publication_trends_in_gamification_A_systematic_mapping_study))
+Kasurinen, J., Knutas, A. (2018). Publication trends in gamification: A systematic mapping study. *Computer Science Review*, 27, 33-44. DOI: 10.1016/j.cosrev.2017.10.003 ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1574013716301769) | [Request preprint from ResearchGate](https://www.researchgate.net/publication/321626181_Publication_trends_in_gamification_A_systematic_mapping_study))
 
 Knutas, A., van Roy, R., Hynninen, T., Granato, M., Kasurinen, J., & Ikonen, J. (2017). Profile-Based Algorithm for Personalized Gamification in Computer-Supported Collaborative Learning Environments. In *Proceedings of the 1st Workshop on Games-Human Interaction (GHITALY 2017)*. ([CEUR-WS](http://ceur-ws.org/Vol-1956/GHItaly17_paper_07.pdf) \| [Preprint from ResearchGate](https://www.researchgate.net/publication/320387170_Profile-Based_Algorithm_for_Personalized_Gamification_in_Computer-Supported_Collaborative_Learning_Environments))
 
