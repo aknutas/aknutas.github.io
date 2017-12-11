@@ -6,7 +6,9 @@ title: Publications
 Find a partial list of my academic publications below, sorted by areas of interest. Preprint PDFs are linked where available for your convenience.
 
 #### Gamification
-Knutas, A., van Roy, R., Hynninen, T., Granato, M., Kasurinen, J., & Ikonen, J. (2017). Profile-Based Algorithm for Personalized Gamification in Computer-Supported Collaborative Learning Environments. In *Proceedings of the 1st Workshop on Games-Human Interaction (GHITALY 2017)*. ([CEUR-WS](http://ceur-ws.org/Vol-1956/GHItaly17_paper_07.pdf) | [Preprint from ResearchGate](https://www.researchgate.net/publication/320387170_Profile-Based_Algorithm_for_Personalized_Gamification_in_Computer-Supported_Collaborative_Learning_Environments))
+Kasurinen, J., Knutas, A. (2018). Publication trends in gamification: A systematic mapping study. Computer Science Review, 27, 33-44. DOI: 10.1145/3123024.3123147 ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1574013716301769) | [Request preprint from ResearchGate](https://www.researchgate.net/publication/321626181_Publication_trends_in_gamification_A_systematic_mapping_study))
+
+Knutas, A., van Roy, R., Hynninen, T., Granato, M., Kasurinen, J., & Ikonen, J. (2017). Profile-Based Algorithm for Personalized Gamification in Computer-Supported Collaborative Learning Environments. In *Proceedings of the 1st Workshop on Games-Human Interaction (GHITALY 2017)*. ([CEUR-WS](http://ceur-ws.org/Vol-1956/GHItaly17_paper_07.pdf) \| [Preprint from ResearchGate](https://www.researchgate.net/publication/320387170_Profile-Based_Algorithm_for_Personalized_Gamification_in_Computer-Supported_Collaborative_Learning_Environments))
 
 Knutas, A., Ikonen, J., Maggiorini, D., Ripamonti, L., & Porras, J. (2016). Creating Student Interaction Profiles for Adaptive Collaboration Gamification Design. *International Journal of Human Capital and Information Technology Professionals (IJHCITP)*, 7(3), 47-62. DOI: 10.4018/IJHCITP.2016070104
 ([IGI Global](http://www.igi-global.com/article/creating-student-interaction-profiles-for-adaptive-collaboration-gamification-design/160726) | [Request preprint from ResearchGate](https://www.researchgate.net/publication/305628490_Creating_Student_Interaction_Profiles_for_Adaptive_Collaboration_Gamification_Design))
@@ -17,6 +19,8 @@ Knutas, A., Ikonen, J., Nikula, U., & Porras, J. (2014, June). Increasing collab
 <br/>
 
 #### Smart Cities, Services and Environments
+Knutas A., Pourzolfaghar Z. and Helfert M. (2017). A Meta-Level Design Science Process for Integrating Stakeholder Needs - Demonstrated for Smart City Services. In *Proceedings of the International Conference on Computer-Human Interaction Research and Applications - Volume 1: CHIRA (pp. 75-84)*. DOI: 10.5220/0006512500750084 ([ScitePress](https://doi.org/10.5220/0006512500750084) | [Preprint from ResearchGate](https://www.researchgate.net/publication/320934162_A_Meta-Level_Design_Science_Process_for_Integrating_Stakeholder_Needs_-_Demonstrated_for_Smart_City_Services))
+
 Ranta, T., Föhr, J., Karttunen, K., & Knutas, A. (2014). Radio frequency identification and composite container technology demonstration for transporting logistics of wood biomass. *Journal of Renewable and Sustainable Energy*, 6(1).
 ([AIP](http://dx.doi.org/10.1063/1.4862786) | [Preprint from ResearchGate](https://www.researchgate.net/profile/Kalle_Karttunen2/publication/263007196_Radio_frequency_identification_and_composite_container_technology_demonstration_for_transporting_logistics_of_wood_biomass/links/53f70cd40cf22be01c452f93.pdf))
 
