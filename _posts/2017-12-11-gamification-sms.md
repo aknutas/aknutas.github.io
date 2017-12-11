@@ -21,7 +21,7 @@ The paper is available at [ScienceDirect](https://www.sciencedirect.com/science/
 The term gamification and gamified systems are a trending area of research. However, gamification can indicate several different things, such as applying the game-like elements into the design of the user interface of a software, but not all gamification is necessarily associated with software products. Overall, it is unclear what different aspects are studied under the umbrella of ‘gamification’, and what is the current state of the art in the gamification research. In this paper, 1164 gamification studies are analyzed and classified based on their focus areas and the research topics to establish what the research trends in gamification are. Based on the results, e-learning and proof-of-concept studies in the ecological lifestyle and sustainability, assisting computer science studies and improving motivation are the trendiest areas of gamification research. Currently, the most common types of research are the proof-of-concept studies, and theoretical works on the different concepts and elements of gamification.
 
 #### Reference
-Jussi Kasurinen, Antti Knutas. 2018. Publication trends in gamification: A systematic mapping study, Computer Science Review, Volume 27, February 2018, Pages 33-44, ISSN 1574-0137. [DOI: 10.1145/3123024.3123147](https://dx.doi.org/10.1145/3123024.3123147)
+Kasurinen, J., Knutas, A. (2018). Publication trends in gamification: A systematic mapping study. *Computer Science Review*, 27, 33-44. [DOI: 10.1145/3123024.3123147](https://dx.doi.org/10.1145/3123024.3123147)
 
 
 #### Authors
