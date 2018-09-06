@@ -9,8 +9,8 @@ relative_permalinks: false
 
 # Setup
 title:            'Antti Knutas'
-tagline:          'Researcher, programmer, photographer. <br/> Socio-technical systems, smart services, gamification.'
-description:      'Researcher, programmer, photographer. <br/> Socio-technical systems, smart services, gamification.'
+tagline:          'Software engineering researcher. <br/> Socio-technical systems, CSCW, gamification.'
+description:      'Software engineering researcher. <br/> Socio-technical systems, CSCW, gamification.'
 url:              http://anttiknutas.net
 baseurl:          ''
 

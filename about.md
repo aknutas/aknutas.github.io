@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I'm a D.Sc. (Tech) and a [postdoctoral researcher](http://www.lero.ie/people/anttiknutas) at the [Lero software research centre](http://lero.ie/aboutlero) in the [Dublin City University](http://www.dcu.ie/). I currently research smart city service enabled collaboration between citizens and user-centric perceived quality in smart city services. My other research interests include computer-supported collaboration, computer-supported education, gamification, data mining, social network analysis and smart cities. I also work with the [Lappeenranta University of Technology](http://www.lut.fi) [Software Engineering](http://www.lut.fi/web/en/school-of-business-and-management/research/industrial-engineering-and-management) research team. I am involved in the [NAILS project](http://nailsproject.net) and [The Contrivance Engine](http://www.tce.fi) projects.
+I'm a D.Sc. (Tech) and a postdoctoral researcher in the software engineering group at the [Lappeenranta University of Technology](http://www.lut.fi/). My research interests involve computer-supported cooperative work (CSCW), non-traditional software engineering processes of digital services, and the design of community-driven socio-technical systems from a software engineering perspective. The design of software that promotes community engagement and collaboration e.g. with gamification is most recent application area of socio-technical system design which I have worked on. My research methods include both qualitative and quantitative approaches, and I aims to provide prescriptive, actionable knowledge that will inform the future design of such systems or their software construction processes. I also work with the [Dublin City University's](http://www.lut.fi) [BIGroup](https://www.researchgate.net/lab/Business-Informatics-Group-BIGroup-Markus-Helfert) research team.
 
 You can find more information about my current projects in this website, from my list of [publications](/publications/) or in the following pages.
 
@@ -20,6 +20,9 @@ You can find more information about my current projects in this website, from my
  * [LUT Research Portal](http://research.cc.lut.fi/converis-lut/publicweb/person/9978?show=PUBLICATION)
 
 ##### Research Group/Project Sites
+ * [CivicSIG](http://civics.ninja/) - Special interest group for civic technologies, civic data, and civic empowerment
+ * [Smart city architecture research project](http://scrita.lero.ie/) - Smart City research project by BIGroup at Dublin City University
+ * [NAILS project](http://nailsproject.net)
  * [LUT Education Research & Development Group](https://www.researchgate.net/project/LUT-Education-Research-Development) - ResearchGate site with prepublications
  * [LUT Education Research & Development Datasets](https://zenodo.org/communities/lut-edu-research/) - open datasets and digital material
  * [Cyberlab project](https://www2.it.lut.fi/GRIP/about) - Cybersecurity knowledge and business development, Cyberlab for short, combines the existing knowledge regarding usability testing, explorative testing and quality assurance into a study concerning long-distance learning and gamified teaching applications.
