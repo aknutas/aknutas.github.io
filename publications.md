@@ -6,7 +6,7 @@ title: Publications
 Find a partial list of my academic publications below, sorted by areas of interest. Preprint PDFs are linked where available for your convenience.
 
 #### Gamification
-Palacin-Silva, M. V., Knutas, A., Ferrario, M. A., Porras, J., Ikonen, J., & Chea, C. (2018). The Role of Gamification in Participatory Environmental Sensing: A Study In the Wild. In *Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems*. ACM. ([Open access at ACM](https://doi.org/10.1145/3173574.3173795))
+Palacin-Silva, M. V., Knutas, A., Ferrario, M. A., Porras, J., Ikonen, J., & Chea, C. (2018). The Role of Gamification in Participatory Environmental Sensing: A Study In the Wild. In *Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems*. ACM. ([ACM](https://doi.org/10.1145/3173574.3173795) | [Request preprint from ResearchGate](https://www.researchgate.net/publication/324659980_The_Role_of_Gamification_in_Participatory_Environmental_Sensing_A_Study_In_the_Wild))
 
 Kasurinen, J., Knutas, A. (2018). Publication trends in gamification: A systematic mapping study. *Computer Science Review*, 27, 33-44. DOI: 10.1016/j.cosrev.2017.10.003 ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1574013716301769) \| [Preprint from ResearchGate](https://www.researchgate.net/publication/321626181_Publication_trends_in_gamification_A_systematic_mapping_study))
 
