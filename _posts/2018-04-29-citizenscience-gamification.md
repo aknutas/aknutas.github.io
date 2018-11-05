@@ -28,7 +28,7 @@ In our approach, we created two applications for monitoring lake ice thickness, 
 See more details about our recommendations in pg. 5 of the paper.
 
 #### Read More
-The paper is available at the [ACM Digital Library](https://doi.org/10.1145/3173574.3173795) and a preprint is available for request at [ResearchGate](https://www.researchgate.net/publication/324659980_The_Role_of_Gamification_in_Participatory_Environmental_Sensing_A_Study_In_the_Wild)
+The paper is available at the [ACM Digital Library](https://doi.org/10.1145/3173574.3173795) and a preprint is available for request at [ResearchGate](https://www.researchgate.net/publication/324659980_The_Role_of_Gamification_in_Participatory_Environmental_Sensing_A_Study_In_the_Wild).
 
 #### What next?
 In the upcoming, more advanced approach the civic engagement and civic technology aspects are deepened. In this upcoming [SENSEI Project](https://www.facebook.com/senseilpr/) citizens are included in the co-design and co-creation. Again, all props to my colleague for initiating and leading the project.
