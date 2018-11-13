@@ -26,8 +26,8 @@ Designing for motivating and engaging experiences is at the core of gamification
 Knutas A., Hynninen T. (2018). The Impact of Gamification on Socio-technical Communities: A Case for Network Analysis. In *Proceedings of the 2nd Workshop on Games-Human Interaction (GHITALY 2018)*. (Open access at [CEUR-WS](http://ceur-ws.org/Vol-2246/GHItaly18_paper_08.pdf))
 
 #### References
-* Claes Wohlin, Per Runeson, Martin Höst, Magnus C. Ohlsson, Björn Regnell, and Anders Wesslén. 2012. *Experimentation in software engineering*. Springer Science & Business Media.
+\* Claes Wohlin, Per Runeson, Martin Höst, Magnus C. Ohlsson, Björn Regnell, and Anders Wesslén. 2012. *Experimentation in software engineering*. Springer Science & Business Media.
 
 #### Authors
-* Antti Knutas
-* Timo Hynninen
+* [Antti Knutas](https://twitter.com/aknutas)
+* [Timo Hynninen](https://twitter.com/TimoTHynninen)

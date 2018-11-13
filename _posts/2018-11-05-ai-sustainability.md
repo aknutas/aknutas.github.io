@@ -22,8 +22,8 @@ Since the 1950s, artificial intelligence (AI) has been a recurring topic in rese
 Khakurel J, Penzenstadler B, Porras J, Knutas A, Zhang W. The Rise of Artificial Intelligence under the Lens of Sustainability. *Technologies*. 2018; 6(4):100. ([Open access at MPDI](https://doi.org/10.3390/technologies6040100))
 
 #### Co-authors
-* Jayden Khakurel
-* Birgit Penzenstadler
+* [Jayden Khakurel](https://twitter.com/jaydenlpr)
+* [Birgit Penzenstadler](https://twitter.com/twinkleflip)
 * Jari Porras
-* Antti Knutas
+* [Antti Knutas](https://twitter.com/aknutas)
 * Wenlu Zhang
