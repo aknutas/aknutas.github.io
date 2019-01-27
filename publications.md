@@ -6,6 +6,8 @@ title: Publications
 Find a partial list of my academic publications below, sorted by areas of interest. Preprint PDFs are linked where available for your convenience.
 
 #### Gamification
+Knutas, A., van Roy, R., Hynninen, T., Granato, M., Kasurinen, J., & Ikonen, J. (2018). A process for designing algorithm-based personalized gamification. Multimedia Tools and Applications, 1-20. [SpringerLink](https://doi.org/10.1007/s11042-018-6913-5). Open access.
+
 Knutas A., Hynninen T. (2018). The Impact of Gamification on Socio-technical Communities: A Case for Network Analysis. In *Proceedings of the 2nd Workshop on Games-Human Interaction (GHITALY 2018)*. ([CEUR-WS](http://ceur-ws.org/Vol-2246/GHItaly18_paper_08.pdf))
 
 Palacin-Silva, M. V., Knutas, A., Ferrario, M. A., Porras, J., Ikonen, J., & Chea, C. (2018). The Role of Gamification in Participatory Environmental Sensing: A Study In the Wild. In *Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems*. ACM. ([ACM](https://doi.org/10.1145/3173574.3173795) \| [Request preprint from ResearchGate](https://www.researchgate.net/publication/324659980_The_Role_of_Gamification_in_Participatory_Environmental_Sensing_A_Study_In_the_Wild))
