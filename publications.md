@@ -39,13 +39,12 @@ Ikonen, J., Knutas, A., Hämäläinen, H., Ihonen, M., Porras, J., & Kallonen, T
 <br/>
 
 #### Computer-Supported Collaborative Learning and Software Engineering Education
+Porras, J., Knutas, A., Ikonen, J., Happonen, A., Khakurel, J., & Herala, A. (2019). Code camps and hackathons in education-literature review and lessons learned. In *Proceedings of the 52nd Hawaii International Conference on System Sciences*. ([ScholarSpace](http://hdl.handle.net/10125/60213) open access)
+
 Herala, A., Knutas, A., Vanhala, E., & Kasurinen, J. (2017). Experiences from Video Lectures in Software Engineering Education. *International Journal of Modern Education and Computer Science (IJMECS)*, 9(5), 17. DOI: 10.5815/ijmecs.2017.05.03 ([MECS](https://dx.doi.org/10.5815/ijmecs.2017.05.03) open access)
 
 Knutas, A., Ikonen, J., & Porras, J. (2015). COMPUTER-SUPPORTED COLLABORATIVE LEARNING IN SOFTWARE ENGINEERING EDUCATION: A SYSTEMATIC MAPPING STUDY. *International Journal on Information Technologies & Security*, 7(4).
 ([IJITS Archive](http://ijits-bg.com/ijitsarchive) | [Preprint from ResearchGate](https://www.researchgate.net/publication/288184552_Computer-Supported_Collaborative_Learning_in_Software_Engineering_Education_A_Systematic_Mapping_Study))
-
-Ikonen, J., Knutas, A., Wu, Y., & Agudo, I. (2015). Is the world ready or do we need more tools for programming related teamwork?. In *Proceedings of the 15th Koli Calling Conference on Computing Education Research (pp. 33-39)*. ACM.
-([ACM](http://dl.acm.org/citation.cfm?id=2828978) |  [ACM Authorizer](https://dl.acm.org/authorize?N678042) open access service)
 <br/>
 <br/>
 
