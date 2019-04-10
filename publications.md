@@ -8,7 +8,7 @@ Find a partial list of my academic publications below, sorted by areas of intere
 #### Civic Tech
 Knutas, A., Palacin, V., Maccani, G., Helfert, M. (2019). Software Engineering in Civic Tech: A Case Study about Code for Ireland. In *Proceedings of the 41st International Conference on Software Engineering*. ([Preprint from arXiv](https://arxiv.org/abs/1904.04104))
 
-Palacin-Silva, M. V., Knutas, A., Ferrario, M. A., Porras, J., Ikonen, J., & Chea, C. (2018). The Role of Gamification in Participatory Environmental Sensing: A Study In the Wild. In *Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems*. ACM. ([ACM](https://doi.org/10.1145/3173574.3173795) \| [Request preprint from ResearchGate](https://www.researchgate.net/publication/324659980_The_Role_of_Gamification_in_Participatory_Environmental_Sensing_A_Study_In_the_Wild))
+Palacin-Silva, M. V., Knutas, A., Ferrario, M. A., Porras, J., Ikonen, J., & Chea, C. (2018). The Role of Gamification in Participatory Environmental Sensing: A Study In the Wild. In *Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems*. ACM. ([ACM](https://doi.org/10.1145/3173574.3173795) \| [Preprint from LUTPub](http://urn.fi/URN:NBN:fi-fe201902185282))
 
 #### Gamification
 Knutas, A., van Roy, R., Hynninen, T., Granato, M., Kasurinen, J., & Ikonen, J. (2018). A process for designing algorithm-based personalized gamification. *Multimedia Tools and Applications*, 1-20. ([SpringerLink](https://doi.org/10.1007/s11042-018-6913-5) open access)
@@ -23,7 +23,7 @@ Knutas, A., Ikonen, J., Maggiorini, D., Ripamonti, L., & Porras, J. (2016). Crea
 ([IGI Global](http://www.igi-global.com/article/creating-student-interaction-profiles-for-adaptive-collaboration-gamification-design/160726) | [Request preprint from ResearchGate](https://www.researchgate.net/publication/305628490_Creating_Student_Interaction_Profiles_for_Adaptive_Collaboration_Gamification_Design))
 
 Knutas, A., Ikonen, J., Nikula, U., & Porras, J. (2014, June). Increasing collaborative communications in a programming course with gamification: a case study. In *Proceedings of the 15th International Conference on Computer Systems and Technologies (pp. 370-377)*. ACM.
-([ACM](http://dl.acm.org/citation.cfm?id=2659620) | [Preprint from ResearchGate](https://www.researchgate.net/publication/268060789_Increasing_collaborative_communications_in_a_programming_course_with_gamification_A_case_study?ev=prf_pub))
+([ACM](http://dl.acm.org/citation.cfm?id=2659620) | [ACM Authorizer](https://dl.acm.org/authorize?N678040) open access service)
 <br/>
 <br/>
 
@@ -39,7 +39,7 @@ Ikonen, J., Knutas, A., Hämäläinen, H., Ihonen, M., Porras, J., & Kallonen, T
 <br/>
 
 #### Computer-Supported Collaborative Learning and Software Engineering Education
-Herala, A., Knutas, A., Vanhala, E., & Kasurinen, J. (2017). Experiences from Video Lectures in Software Engineering Education. *International Journal of Modern Education and Computer Science (IJMECS)*, 9(5), 17. DOI: 10.5815/ijmecs.2017.05.03 ([MECS](https://dx.doi.org/10.5815/ijmecs.2017.05.03) | [Preprint from ResearchGate](https://www.researchgate.net/publication/316608368_Experiences_from_Video_Lectures_in_Software_Engineering_Education))
+Herala, A., Knutas, A., Vanhala, E., & Kasurinen, J. (2017). Experiences from Video Lectures in Software Engineering Education. *International Journal of Modern Education and Computer Science (IJMECS)*, 9(5), 17. DOI: 10.5815/ijmecs.2017.05.03 ([MECS](https://dx.doi.org/10.5815/ijmecs.2017.05.03) open access)
 
 Knutas, A., Ikonen, J., & Porras, J. (2015). COMPUTER-SUPPORTED COLLABORATIVE LEARNING IN SOFTWARE ENGINEERING EDUCATION: A SYSTEMATIC MAPPING STUDY. *International Journal on Information Technologies & Security*, 7(4).
 ([IJITS Archive](http://ijits-bg.com/ijitsarchive) | [Preprint from ResearchGate](https://www.researchgate.net/publication/288184552_Computer-Supported_Collaborative_Learning_in_Software_Engineering_Education_A_Systematic_Mapping_Study))
