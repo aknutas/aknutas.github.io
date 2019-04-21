@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I'm a D.Sc. (Tech) and an assistant professor in software construction working with the software engineering group at the [LUT University](http://www.lut.fi/). My research interests involve computer-supported cooperative work (CSCW), non-traditional software engineering processes of digital services, and the design of community-driven socio-technical systems from a software engineering perspective. The design of software that promotes community engagement and collaboration e.g. with gamification is most recent application area of socio-technical system design which I have worked on. My research methods include both qualitative and quantitative approaches, and I aims to provide prescriptive, actionable knowledge that will inform the future design of such systems or their software construction processes. I also work with the [Dublin City University's](https://www.dcu.ie/) [BIGroup](https://www.researchgate.net/lab/Business-Informatics-Group-BIGroup-Markus-Helfert) research team.
+I'm a D.Sc. (Tech) and an assistant professor in software construction working with the software engineering group at the [LUT University](http://www.lut.fi/). My research interests involve human factors in software engineering, computer-supported cooperation, and civic technology from a software engineering perspective. The design of software that promotes community engagement and collaboration e.g. with gamification is most recent application area of socio-technical system design which I have worked on. My research methods include both qualitative and quantitative approaches, and I aim to provide prescriptive, actionable knowledge that will inform the future design of such systems or their software construction processes. In addition to research at LUT, I have worked with the [BIGroup](http://big.computing.dcu.ie/) research team at [Dublin City University](https://www.dcu.ie/) and the [PONG labs](https://pong.di.unimi.it/) in the University of Milan.
 
 You can find more information about my current projects in this website, from my list of [publications](/publications/) or in the following pages.
 
@@ -17,13 +17,10 @@ You can find more information about my current projects in this website, from my
  * [Google Scholar Profile](https://scholar.google.com/citations?user=svyPd-YAAAAJ)
  * [ResearchGate Profile](https://www.researchgate.net/profile/Antti_Knutas)
  * [GitHub Projects](https://github.com/aknutas/)
- * [LUT Research Portal](http://research.cc.lut.fi/converis-lut/publicweb/person/9978?show=PUBLICATION)
+ * [LUT Research Portal](https://research.lut.fi/converis/portal/Person/40268?auxfun=&lang=en_GB)
 
 ##### Research Group/Project Sites
- * [CivicSIG](http://civics.ninja/) - Special interest group for civic technologies, civic data, and civic empowerment
- * [Smart city architecture research project](http://scrita.lero.ie/) - Smart City research project by BIGroup at Dublin City University
  * [NAILS project](http://nailsproject.net)
- * [LUT Education Research & Development Group](https://www.researchgate.net/project/LUT-Education-Research-Development) - ResearchGate site with prepublications
  * [LUT Education Research & Development Datasets](https://zenodo.org/communities/lut-edu-research/) - open datasets and digital material
  * [Cyberlab project](https://www2.it.lut.fi/GRIP/about) - Cybersecurity knowledge and business development, Cyberlab for short, combines the existing knowledge regarding usability testing, explorative testing and quality assurance into a study concerning long-distance learning and gamified teaching applications.
 
