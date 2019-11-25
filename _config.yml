@@ -1,7 +1,7 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
-gems:             [jekyll-paginate, jekyll-gist, jekyll-feed, jekyll-sitemap]
+plugins:          [jekyll-paginate, jekyll-gist, jekyll-feed, jekyll-sitemap]
 
 # Permalinks
 permalink:        pretty
