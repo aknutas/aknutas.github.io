@@ -6,14 +6,16 @@ title: Publications
 Find a partial list of my academic publications below, sorted by areas of interest. Preprint PDFs are linked where available for your convenience.
 
 #### Civic Tech
-Knutas, A., Palacin, V., Maccani, G., & Helfert, M. (2019). Software Engineering in Civic Tech: A Case Study about Code for Ireland. In *Proceedings of the 41st International Conference on Software Engineering*. ([Preprint from arXiv](https://arxiv.org/abs/1904.04104))
+Knutas, A., & Petersen, A. (2019). The Effect of Civic Knowledge and Attitudes on CS Student Work Preferences. In *Proceedings of the 19th Koli Calling International Conference on Computing Education Research (Koli Calling ’19)*. Association for Computing Machinery, New York, NY, USA, Article 37, 1–2. ([ACM](https://doi.org/10.1145/3364510.3366159) | [Preprint from arXiv](https://arxiv.org/abs/2001.11810))
+
+Knutas, A., Palacin, V., Maccani, G., & Helfert, M. (2019). Software Engineering in Civic Tech: A Case Study about Code for Ireland. In *Proceedings of the 41st International Conference on Software Engineering*. ([ACM](https://dl.acm.org/doi/10.1109/ICSE-SEIS.2019.14) \| [Preprint from arXiv](https://arxiv.org/abs/1904.04104))
 
 Palacin-Silva, M. V., Knutas, A., Ferrario, M. A., Porras, J., Ikonen, J., & Chea, C. (2018). The Role of Gamification in Participatory Environmental Sensing: A Study In the Wild. In *Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems*. ACM. ([ACM](https://doi.org/10.1145/3173574.3173795) \| [Preprint from LUTPub](http://urn.fi/URN:NBN:fi-fe201902185282))
 
 #### Gamification
-Knutas, A., van Roy, R., Hynninen, T., Granato, M., Kasurinen, J., & Ikonen, J. (2018). A process for designing algorithm-based personalized gamification. *Multimedia Tools and Applications*, 1-20. ([SpringerLink](https://doi.org/10.1007/s11042-018-6913-5) open access)
+Knutas, A., van Roy, R., Hynninen, T., Granato, M., Kasurinen, J., & Ikonen, J. (2019). A process for designing algorithm-based personalized gamification. *Multimedia Tools and Applications*, 1-20. ([SpringerLink](https://doi.org/10.1007/s11042-018-6913-5) open access)
 
-Knutas A., Hynninen T. (2018). The Impact of Gamification on Socio-technical Communities: A Case for Network Analysis. In *Proceedings of the 2nd Workshop on Games-Human Interaction (GHITALY 2018)*. ([CEUR-WS](http://ceur-ws.org/Vol-2246/GHItaly18_paper_08.pdf) open access)
+Knutas A., & Hynninen T. (2018). The Impact of Gamification on Socio-technical Communities: A Case for Network Analysis. In *Proceedings of the 2nd Workshop on Games-Human Interaction (GHITALY 2018)*. ([CEUR-WS](http://ceur-ws.org/Vol-2246/GHItaly18_paper_08.pdf) open access)
 
 Kasurinen, J., & Knutas, A. (2018). Publication trends in gamification: A systematic mapping study. *Computer Science Review*, 27, 33-44. DOI: 10.1016/j.cosrev.2017.10.003  ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1574013716301769) \| [Preprint from ResearchGate](https://www.researchgate.net/publication/321626181_Publication_trends_in_gamification_A_systematic_mapping_study))
 
@@ -28,6 +30,8 @@ Knutas, A., Ikonen, J., Nikula, U., & Porras, J. (2014). Increasing collaborativ
 <br/>
 
 #### Smart Cities, Services and Environments
+Knutas A., Pourzolfaghar Z., & Helfert M. (2019) The Role and Impact of Descriptive Theories in Creating Knowledge in Design Science. In: Holzinger A., Silva H., Helfert M. (eds) Computer-Human Interaction Research and Applications. Communications in Computer and Information Science, vol 654. Springer, Cham. ([SpringerLink](https://link.springer.com/chapter/10.1007%2F978-3-030-32965-5_5) | [Postprint from LUTPub](https://lutpub.lut.fi/handle/10024/160699))
+
 Knutas A., Pourzolfaghar Z., & Helfert M. (2017). A Meta-Level Design Science Process for Integrating Stakeholder Needs - Demonstrated for Smart City Services. In *Proceedings of the International Conference on Computer-Human Interaction Research and Applications - Volume 1: CHIRA (pp. 75-84)*. DOI: 10.5220/0006512500750084 ([ScitePress](https://doi.org/10.5220/0006512500750084) open access)
 
 Ranta, T., Föhr, J., Karttunen, K., & Knutas, A. (2014). Radio frequency identification and composite container technology demonstration for transporting logistics of wood biomass. *Journal of Renewable and Sustainable Energy*, 6(1).
@@ -39,12 +43,12 @@ Ikonen, J., Knutas, A., Hämäläinen, H., Ihonen, M., Porras, J., & Kallonen, T
 <br/>
 
 #### Computer-Supported Collaborative Learning and Software Engineering Education
-Porras, J., Knutas, A., Ikonen, J., Happonen, A., Khakurel, J., & Herala, A. (2019). Code camps and hackathons in education-literature review and lessons learned. In *Proceedings of the 52nd Hawaii International Conference on System Sciences*. ([ScholarSpace](http://hdl.handle.net/10125/60213) open access)
+Porras, J., Knutas, A., Ikonen, J., Happonen, A., Khakurel, J., & Herala, A. (2019). Code camps and hackathons in education - literature review and lessons learned. In *Proceedings of the 52nd Hawaii International Conference on System Sciences*. ([ScholarSpace](http://hdl.handle.net/10125/60213) open access)
 
 Herala, A., Knutas, A., Vanhala, E., & Kasurinen, J. (2017). Experiences from Video Lectures in Software Engineering Education. *International Journal of Modern Education and Computer Science (IJMECS)*, 9(5), 17. DOI: 10.5815/ijmecs.2017.05.03 ([MECS](https://dx.doi.org/10.5815/ijmecs.2017.05.03) open access)
 
-Knutas, A., Ikonen, J., & Porras, J. (2015). COMPUTER-SUPPORTED COLLABORATIVE LEARNING IN SOFTWARE ENGINEERING EDUCATION: A SYSTEMATIC MAPPING STUDY. *International Journal on Information Technologies & Security*, 7(4).
-([IJITS Archive](http://ijits-bg.com/ijitsarchive) | [Preprint from ResearchGate](https://www.researchgate.net/publication/288184552_Computer-Supported_Collaborative_Learning_in_Software_Engineering_Education_A_Systematic_Mapping_Study))
+Knutas, A., Ikonen, J., & Porras, J. (2015). Computer-Supported Collaborative Learning in Software Engineering Education: A Systematic Mapping Study. *International Journal on Information Technologies & Security*, 7(4).
+([IJITS Archive](http://ijits-bg.com/ijitsarchive) | [Preprint from arXiv](https://arxiv.org/abs/1906.10710))
 <br/>
 <br/>
 
