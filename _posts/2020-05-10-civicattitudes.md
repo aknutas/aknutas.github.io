@@ -17,6 +17,8 @@ The initial findings of our study indicate that civic knowledge or attitudes -- 
 
 Our findings suggest that educational and awareness efforts alone might not be enough to make civic work an interesting career choice to computing professionals after graduation. However, at the same time the students were interested in creating civic technology as volunteer work.
 
+<!--more-->
+
 The findings are not yet conclusive and more data needs to be collected before the results can be used to support decision-making for practitioners. However, the initial results presented in this paper can inform future studies in the field.
 
 #### Read More

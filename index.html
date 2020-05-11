@@ -12,9 +12,14 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <span class="post-date">{{ post.date | date_to_string }} &middot; {% include index-readingtime.html %}</span>
 
-    {{ post.content }}
+    {{ post.excerpt }}
+
+    <br/>
+
+    <a href="{{ post.url }}">Continue reading</a>
+    
   </div>
   {% endfor %}
 </div>

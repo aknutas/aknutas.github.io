@@ -17,6 +17,8 @@ Gamification, or the application of game elements in non-game environments, is n
 #### Read More
 The paper is available at [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1574013716301769). Alternatively, you can request a preprint at [ResearchGate](https://www.researchgate.net/publication/321626181_Publication_trends_in_gamification_A_systematic_mapping_study).
 
+<!--more-->
+
 #### Abstract
 The term gamification and gamified systems are a trending area of research. However, gamification can indicate several different things, such as applying the game-like elements into the design of the user interface of a software, but not all gamification is necessarily associated with software products. Overall, it is unclear what different aspects are studied under the umbrella of ‘gamification’, and what is the current state of the art in the gamification research. In this paper, 1164 gamification studies are analyzed and classified based on their focus areas and the research topics to establish what the research trends in gamification are. Based on the results, e-learning and proof-of-concept studies in the ecological lifestyle and sustainability, assisting computer science studies and improving motivation are the trendiest areas of gamification research. Currently, the most common types of research are the proof-of-concept studies, and theoretical works on the different concepts and elements of gamification.
 

@@ -16,6 +16,8 @@ published: true
 
 The previous two articles on [Gamifying CSCL]({% post_url 2015-06-01-cscl-gamification %}) and [Building Fair CS:GO Teams]({% post_url 2016-04-18-csgo-ladder-machinelearning %}) are an excellent segue to today's topic. A year back we made an survey on how motivated video game players would be to exercise for in-game rewards. Additionally we performed a systematic mapping study on current scientific literature handling the topic. We found that it has not been a much researched subject and the attitudes of players were open to connecting video games and exercise by gamification. 
 
+<!--more-->
+
 #### TL;DR
 According to our survey casual videogame players were willing to do physical exercise for in-game rewards. (with the survey mostly concerning Counterstrike players)
 

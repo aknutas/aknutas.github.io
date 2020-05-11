@@ -18,6 +18,8 @@ My recently defended doctoral thesis on computer-supported collaborative work is
 #### Read More
 Find the PDF available for free from the [Doria library archive](http://urn.fi/URN:ISBN:978-952-335-007-6).
 
+<!--more-->
+
 #### Reference
 Knutas, A. (2016). [Increasing Beneficial Interactions in a Computer-Supported Collaborative Environment](http://urn.fi/URN:ISBN:978-952-335-007-6). *Acta Universitatis Lappeenrantaensis*.
 

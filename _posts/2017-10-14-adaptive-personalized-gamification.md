@@ -19,6 +19,8 @@ The application domain is a computer-supported collaborative learning environmen
 #### Read More
 Read more at the CEUR Workshop Proceedings [archive](http://ceur-ws.org/Vol-1956/GHItaly17_paper_07.pdf) of the Proceedings of the 1st Workshop on Games-Human Interaction (GHITALY 2017) or the preprint at [ResearchGate](https://www.researchgate.net/publication/320387170_Profile-Based_Algorithm_for_Personalized_Gamification_in_Computer-Supported_Collaborative_Learning_Environments). Alternatively get an overview from the conference presentation [slides](https://1drv.ms/p/s!AnYHCIvPQzaMhqZvrM8iqJfyWWXbXQ).
 
+<!--more-->
+
 #### Open Science!
 The paper is freely available as open access. Additionally, project materials and source code are available both in GitHub, and permanently archived in Zenodo, the open access research data repository. See links for both below in the [references section](#references).
 

@@ -24,6 +24,8 @@ See also our previous work on [flipped classroom]({% post_url 2016-07-12-flipped
 #### Read More
 Preprint is available at [ResearchGate](https://www.researchgate.net/publication/316608368_Experiences_from_Video_Lectures_in_Software_Engineering_Education).
 
+<!--more-->
+
 #### Abstract
 Millennials have learned to seek information from the Internet whenever they need to know something and want to learn things. In this study, we present observations from several university courses with freely available online resources for the modern students. Ten different courses with video lectures were observed, often with positive outcomes and improved results compared to the previous course arrangements. Additionally, unlike in some previous literature, we observed that some issues such as the video length did not have a meaningful impact on the learning outcomes. Overall, the results indicate that videos offer excellent benefit-effort-ratio, and are an efficient way to reach the target audience: the students.
 

@@ -15,6 +15,8 @@ published: true
 
 This post deviates a little from the science publication fare and is related to applied machine techiques and how they can be used in the most unusual places. Let me start first by illuminating the motivation. I am a part of the organizing body of [Snooze Ry.](http://www.snooze.fi), which arranges LAN party events for youth. As you might expect, there are computer game *([eSports](https://en.wikipedia.org/wiki/ESports))* competitions. However, one of the issues is that the skill level of the participants varies a lot and we aim to maximise fun at the competitions. Many of the games that are played there are team-based and we try to have teams evenly matched to have the matches to be as exciting as possible. Recently we have manually assigned the best players into the different teams, but this is not a long term solution and involves a lot of manual work.
 
+<!--more-->
+
 #### Stand Back, I am Going to Try Science
 To address this issue in constructing teams for competitions a good friend of mine set out to program a more fair tournament ladder constructor. For the first test case we chose a popular first person team action game, Counterstrike: Global Offensive. The game is connected to Steam, a popular gaming platform that also records statistics and creates public profiles for players, so that we have a wealth of data available from hours played to player performance per level and the weapon of choice. This wealth of data also provided an issue: Which statistics should we use to decide the player skill? Win/lose -ratio? What if he just had good teammates? Total hours played? What if the guy is just a slow learner?
 

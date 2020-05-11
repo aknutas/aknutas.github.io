@@ -16,6 +16,8 @@ Over the winter I had the privilege to participated in a pilot project initiated
 
 In our approach, we created two applications for monitoring lake ice thickness, one with gamification and one without to specifically evaluate the impact of gamification. The gamified application had a statistically significant effect on user effectiveness, as measured by the number of interactions and new data inputted by the user compared to the time the application was open. Both groups found the application as usable and as satisfying to use.
 
+<!--more-->
+
 #### We published the following design reflections to consider when implementing gamification in participatory sensing:
 
  - support personalized notification triggers;

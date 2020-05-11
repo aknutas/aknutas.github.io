@@ -25,6 +25,8 @@ Additionally, there was an interesting _non-affecting factor_: Effort Expectancy
 #### Read More
 The paper is available as a preprint at [ResearchGate](https://www.researchgate.net/publication/318941009_Intended_use_of_Smartwatches_and_Pedometers_in_the_university_Environment_An_Empirical_Analysis_Figure_1_WAM_model_view_1_for_larger_image). Full paper metadata is available at [ACM Digital Library](https://doi.org/10.1145/3123024.3123147).
 
+<!--more-->
+
 #### Abstract
 In this work, we empirically examine factors that influence the intention to use wearables e.g. smartwatch or pedometer, in the university environment through a Wearable Acceptance Model (WAM). WAM incorporates UTAUT model and additional variables like wearable characteristics (e.g. wearability, design and physical characteristics), attitude and privacy. WAM was used with an online survey of 129 university faculty, staff and students. Further, partial least square (PLS) path modeling was applied in analysis of 14 hypotheses to validate WAM results. In accordance to WAM, wearability and attitude tend to have a direct effect on intention to use, whereas performance and effort expectancy had only a direct influence on attitude and no direct influence on usage intention. Similarly, privacy concern, social influence had a positive influence on the intention to use both directly and indirectly through attitude. However, design and physical characteristics had no effect on intention to use. This study makes a unique empirical contribution to wearable research by extending knowledge on university users' behavior regarding wearables for well-being.
 
