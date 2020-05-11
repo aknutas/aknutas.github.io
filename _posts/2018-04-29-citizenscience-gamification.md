@@ -4,8 +4,7 @@ title: 'Design Reflections for Gamification in Participatory Environmental Sensi
 tags:
     - participatory sensing
     - gamification
-    - citizen science
-    - engagement
+    - civic tech
 published: true
 ---
 

@@ -2,11 +2,9 @@
 layout: post
 title: 'Adaptive Gamification - Beyond Cookie Cutter Solutions'
 tags:
-    - data mining
-    - data analysis
     - social network analysis
     - gamification
-    - computer-supported collaboration
+    - adaptive
 published: true
 ---
 

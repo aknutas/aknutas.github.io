@@ -3,7 +3,6 @@ layout: post
 title: 'Experiences from Video Lectures in Software Engineering Education'
 tags:
     - computer science education
-    - software engineering
     - video lectures
     - user statistics
     - experience report

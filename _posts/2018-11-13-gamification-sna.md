@@ -4,8 +4,6 @@ title: 'The Impact of Gamification on Socio-technical Communities: A Case for Ne
 tags:
     - gamification
     - social network analysis
-    - community
-    - sociotechnical
 published: true
 ---
 

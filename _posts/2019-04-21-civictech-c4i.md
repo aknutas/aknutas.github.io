@@ -3,8 +3,6 @@ layout: post
 title: 'Software Engineering in Civic Tech: A Case Study'
 tags:
     - civic tech
-    - software engineering processes
-    - grassroots
 published: true
 ---
 

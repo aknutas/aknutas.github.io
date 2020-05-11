@@ -3,8 +3,6 @@ layout: post
 title: 'Publication trends in gamification: A systematic mapping study'
 tags:
     - systematic mapping study
-    - quantitative data
-    - bibliometrics
     - gamification 
 published: true
 ---

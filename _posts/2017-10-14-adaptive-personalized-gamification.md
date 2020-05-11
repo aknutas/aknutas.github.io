@@ -3,9 +3,8 @@ layout: post
 title: 'Profile-Based Algorithm for Personalized Gamification in Computer-Supported Collaborative Learning Environments'
 tags:
     - gamification
-    - adaptive systems
+    - adaptive
     - personalization
-    - computer-supported collaborative learning
 published: true
 ---
 

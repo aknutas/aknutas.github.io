@@ -2,9 +2,6 @@
 layout: post
 title: 'The Effect of Civic Knowledge and Attitudes on CS Student Work Preferences'
 tags:
-    - cs student
-    - work practise
-    - civic knowledge and attitudes
     - civic tech
 published: true
 ---

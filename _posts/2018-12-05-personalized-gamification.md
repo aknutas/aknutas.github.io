@@ -4,8 +4,8 @@ title: 'A Process for Designing Algorithm-based Personalized Gamification'
 tags:
     - gamification
     - adaptive 
-    - personalized
-    - algorithms
+    - personalization
+    - algorithm
 published: true
 ---
 
