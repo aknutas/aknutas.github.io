@@ -4,8 +4,7 @@ title: 'Design Reflections for Gamification in Participatory Environmental Sensi
 tags:
     - participatory sensing
     - gamification
-    - citizen science
-    - engagement
+    - civic tech
 published: true
 ---
 
@@ -15,6 +14,8 @@ published: true
 Over the winter I had the privilege to participated in a pilot project initiated my colleague [Palacin-Silva](https://twitter.com/vpalacin) to investigate the impact of gamification on user engagement in environmental sensing. We used a participatory sensing approach where citizens actively participate in monitoring their environment. Participatory sensing can be said to be a type of civic technology in the sense that it empowers citizens to actively participate, instead of being passive recipients of environmental data. In this case the participants monitored the thickness of lake ice in Lappeenranta, Finland, where there was a pre-existing community. This community for example maintains their section of the [Lake Wiki](http://www.jarviwiki.fi/wiki/Etusivu).
 
 In our approach, we created two applications for monitoring lake ice thickness, one with gamification and one without to specifically evaluate the impact of gamification. The gamified application had a statistically significant effect on user effectiveness, as measured by the number of interactions and new data inputted by the user compared to the time the application was open. Both groups found the application as usable and as satisfying to use.
+
+<!--more-->
 
 #### We published the following design reflections to consider when implementing gamification in participatory sensing:
 

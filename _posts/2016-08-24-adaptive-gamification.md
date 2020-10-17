@@ -2,11 +2,9 @@
 layout: post
 title: 'Adaptive Gamification - Beyond Cookie Cutter Solutions'
 tags:
-    - data mining
-    - data analysis
     - social network analysis
     - gamification
-    - computer-supported collaboration
+    - adaptive
 published: true
 ---
 
@@ -22,6 +20,8 @@ We discovered four types of activitiy profiles, compared them with Bartle types 
 
 #### Read More
 Read more at the IJHCITP journal [website](http://www.igi-global.com/article/creating-student-interaction-profiles-for-adaptive-collaboration-gamification-design/160726). Unfortunately this time the licensing restriction prohibited publishing a pre-print version. If your library does not subscribe to IJHCITP and you still want to view the results, please contact me on Twitter or ResearchGate and we will figure out a solution.
+
+<!--more-->
 
 #### Science!
 We used [Social Network Analysis](https://en.wikipedia.org/wiki/Social_network_analysis) and [K-Means clustering](https://en.wikipedia.org/wiki/K-means_clustering) to construct the profiles. There is a Prezi [presentation](http://goo.gl/loaU9Z) from a previous study that visualizes some of the data collection methods.

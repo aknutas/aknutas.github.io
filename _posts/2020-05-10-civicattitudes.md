@@ -2,9 +2,6 @@
 layout: post
 title: 'The Effect of Civic Knowledge and Attitudes on CS Student Work Preferences'
 tags:
-    - cs student
-    - work practise
-    - civic knowledge and attitudes
     - civic tech
 published: true
 ---
@@ -16,6 +13,8 @@ What remains mostly unexplored is what kind of attitudes and knowledge computer 
 The initial findings of our study indicate that civic knowledge or attitudes -- including attitudes related to social issues and equality -- do not have a significant effect on the choice to work at a non-profit. When it comes to working for the government, trust in civic institutions and attitudes towards country were significant coefficients.
 
 Our findings suggest that educational and awareness efforts alone might not be enough to make civic work an interesting career choice to computing professionals after graduation. However, at the same time the students were interested in creating civic technology as volunteer work.
+
+<!--more-->
 
 The findings are not yet conclusive and more data needs to be collected before the results can be used to support decision-making for practitioners. However, the initial results presented in this paper can inform future studies in the field.
 

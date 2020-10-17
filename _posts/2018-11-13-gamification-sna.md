@@ -4,8 +4,6 @@ title: 'The Impact of Gamification on Socio-technical Communities: A Case for Ne
 tags:
     - gamification
     - social network analysis
-    - community
-    - sociotechnical
 published: true
 ---
 
@@ -18,6 +16,8 @@ Secondly, we urge network analysis papers to move towards hypothesis testing ins
 
 #### Read More
 An open access version of the paper is available at [CEUR-WS](http://ceur-ws.org/Vol-2246/GHItaly18_paper_08.pdf).
+
+<!--more-->
 
 #### Abstract
 Designing for motivating and engaging experiences is at the core of gamification. The results of gamification are often evaluated with user experience testing involving recordings, surveys, and interviews. However, in multi-user socio-technical environments the benefits of gamification are often realized in interactions between users. We propose that social network analysis should be used more to analyze the impact of gamification at community level. To demonstrate the approach, we present a study where a gamified computer-supported collaborative learning system was introduced to a course, and compare the course to a previous instance. Furthermore, we present several examples of how social network analysis can be used with hypothesis testing and discuss the benefits of the approach.
