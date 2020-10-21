@@ -32,7 +32,7 @@ Knight Foundation 2013[^KnightFoundation2013]; Steinberg 2014[^Steinberg2014]). 
 of civic tech, ranging from commercial actors, governments, non-profits,
 volunteer organizations, and loosely organized communities (Sifry,
 Stempeck, and Simpson 2017[^sifry2017civic]). These creators vary in purpose (Saldivar et
-al. 2019) and in how they identify themselves as
+al. 2019[^saldivar2019civic]) and in how they identify themselves as
 practitioners (Costanza-Chock et al. 2018[^costanza-chock_morethancode_2018]).[^1] What is common in all of
 these projects, is that they address a societal need identified by the
 public, or together with the public. For example, the need to identify
@@ -52,7 +52,7 @@ requires more effort and resources, and that is rarely the main goal.
 Several civic tech groups already consider Free/Libre and open source
 software important, seeing its values to be consistent with the goals of
 equity, justice, transparency, and sharing instead of
-competition (Costanza-Chock et al. 2018; Smith and Martı́n 2020). Despite
+competition (Costanza-Chock et al. 2018[^costanza-chock_morethancode_2018]; Smith and Martı́n 2020[^smith2020going]). Despite
 this, poorly resourced projects might turn to commercial or closed
 software, which is easy to take into use, but at the same time lacks
 community accountability and transparency, and might ultimately work at
