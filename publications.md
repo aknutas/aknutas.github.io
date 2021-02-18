@@ -5,6 +5,13 @@ title: Publications
 
 Find a partial list of my academic publications below, sorted by areas of interest. Preprint PDFs are linked where available for your convenience.
 
+---
+**Table of Contents**
+
+* TOC
+{:toc}
+---
+
 #### Civic Tech
 Palacin, V., Ferrario, M. A., Hsieh, G., Knutas, A., Wolff, A., & Porras, J. (2021). Human Values and Digital Citizen Science Interactions. International Journal of Human-Computer Studies, 102605. ([ScienceDirect](https://doi.org/10.1016/j.ijhcs.2021.102605) open access)
 
@@ -62,10 +69,10 @@ Knutas, A., Ikonen, J., & Porras, J. (2015). Computer-Supported Collaborative Le
 <br/>
 <br/>
 
-#### Other Social Network Analysis
+<!--- (commented out for now #### Other Social Network Analysis
 Bergman, J. P., Knutas, A., Luukka, P., Jantunen, A., Tarkiainen, A., Karlik, A., & Platonov, V. (2016). Strategic Interpretation on Sustainability Issues–Eliciting Cognitive Maps of Boards of Directors. *Corporate Governance: The International Journal of Business in Society*, 16(1).
 ([Emerald](http://www.emeraldinsight.com/doi/full/10.1108/CG-04-2015-0051) | [Preprint from ResearchGate](https://www.researchgate.net/publication/290476383_Strategic_interpretation_on_sustainability_issues_-_eliciting_cognitive_maps_of_boards_of_directors))
 
 Knutas, A., Hajikhani, A., Salminen, J., Ikonen, J., & Porras, J. (2015). Cloud-based bibliometric analysis service for systematic mapping studies. In *Proceedings of the 16th International Conference on Computer Systems and Technologies* (pp. 184-191). ACM.
 ([ACM](http://dl.acm.org/citation.cfm?id=2812442) | [ACM Authorizer](https://dl.acm.org/authorize?N678041) open access service)
-<br/>
+<br/> -->
