@@ -6,7 +6,9 @@ title: Publications
 Find a partial list of my academic publications below, sorted by areas of interest. Preprint PDFs are linked where available for your convenience.
 
 #### Civic Tech
-Knutas, A., Palacin, V., Wolff, A., & Hyrynsalmi, S. (2020). Local Solutions with Global Reach - Can Civic Tech Benefit from Open Source Software Ecosystem Practises? In *CSCW 2020 Workshop on Civic Technologies: Research, Practice, and Open Challenges*. ACM. ([Preprint from workshop website](https://cscwcivictechnologies.wordpress.com/papers/))
+Palacin, V., Ferrario, M. A., Hsieh, G., Knutas, A., Wolff, A., & Porras, J. (2021). Human Values and Digital Citizen Science Interactions. International Journal of Human-Computer Studies, 102605. ([ScienceDirect](https://doi.org/10.1016/j.ijhcs.2021.102605) open access)
+
+Knutas, A., Palacin, V., Wolff, A., & Hyrynsalmi, S. (2020). Local Solutions with Global Reach - Can Civic Tech Benefit from Open Source Software Ecosystem Practises? In *CSCW 2020 Workshop on Civic Technologies: Research, Practice, and Open Challenges*. ACM. ([Preprint from LUTPub](https://lutpub.lut.fi/handle/10024/162253) \| [Workshop proceedings](https://arxiv.org/abs/2012.00515))
 
 Knutas, A., & Petersen, A. (2019). The Effect of Civic Knowledge and Attitudes on CS Student Work Preferences. In *Proceedings of the 19th Koli Calling International Conference on Computing Education Research (Koli Calling ’19)*. Association for Computing Machinery, New York, NY, USA, Article 37, 1–2. ([ACM](https://doi.org/10.1145/3364510.3366159) \| [Preprint from arXiv](https://arxiv.org/abs/2001.11810))
 
@@ -34,7 +36,9 @@ Knutas, A., Ikonen, J., Nikula, U., & Porras, J. (2014). Increasing collaborativ
 <br/>
 
 #### Smart Cities, Services and Environments
-Knutas A., Pourzolfaghar Z., & Helfert M. (2019) The Role and Impact of Descriptive Theories in Creating Knowledge in Design Science. In: Holzinger A., Silva H., Helfert M. (eds) Computer-Human Interaction Research and Applications. Communications in Computer and Information Science, vol 654. Springer, Cham. ([SpringerLink](https://link.springer.com/chapter/10.1007%2F978-3-030-32965-5_5) | [Postprint from LUTPub](https://lutpub.lut.fi/handle/10024/160699))
+Wolff, A., Pässilä, A., Knutas, A., Vainio, T., Lautala, J., & Kantola, L. (2021). The Importance of Creative Practices in Designing More-Than-Human Cities. Handbook of Smart Cities. ([SpringerLink](https://link.springer.com/referenceworkentry/10.1007%2F978-3-030-15145-4_74-1) \| [Postprint from LUTPub](https://lutpub.lut.fi/handle/10024/162208))
+
+Knutas A., Pourzolfaghar Z., & Helfert M. (2019) The Role and Impact of Descriptive Theories in Creating Knowledge in Design Science. In: Holzinger A., Silva H., Helfert M. (eds) Computer-Human Interaction Research and Applications. Communications in Computer and Information Science, vol 654. Springer, Cham. ([SpringerLink](https://link.springer.com/chapter/10.1007%2F978-3-030-32965-5_5) \| [Postprint from LUTPub](https://lutpub.lut.fi/handle/10024/160699))
 
 Knutas A., Pourzolfaghar Z., & Helfert M. (2017). A Meta-Level Design Science Process for Integrating Stakeholder Needs - Demonstrated for Smart City Services. In *Proceedings of the International Conference on Computer-Human Interaction Research and Applications - Volume 1: CHIRA (pp. 75-84)*. DOI: 10.5220/0006512500750084 ([ScitePress](https://doi.org/10.5220/0006512500750084) open access)
 
