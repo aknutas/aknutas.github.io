@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Open and Engaging Science with Participatory Approaches
+title: 'Open and Engaging Science with Participatory Approaches'
 tags:
     - open science
     - science engagement
