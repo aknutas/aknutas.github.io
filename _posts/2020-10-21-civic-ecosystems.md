@@ -13,7 +13,7 @@ Recently my colleagues and I had the opportunity to participate in the [Civic Te
 In this article, we identify benefits of using open source ecosystem practices within civic tech projects, the barriers against it, and offer some technical solutions that could address some of these barriers. We also lay the foundation for looking into less tangible aspects such as mutual benefits between the communities and cross community learning.
 
 ### Authors and publication
-Knutas, A., Palacin, V., Wolff, A., & Hyrynsalmi, S. (2020). Local Solutions with Global Reach - Can Civic Tech Benefit from Open Source Software Ecosystem Practises? In *CSCW 2020 Workshop on Civic Technologies: Research, Practice, and Open Challenges*. ACM. ([Preprint from workshop website](https://cscwcivictechnologies.wordpress.com/papers/))
+Knutas, A., Palacin, V., Wolff, A., & Hyrynsalmi, S. (2020). Local Solutions with Global Reach - Can Civic Tech Benefit from Open Source Software Ecosystem Practises? In *CSCW 2020 Workshop on Civic Technologies: Research, Practice, and Open Challenges*. ACM. ([Preprint from LUTPub](https://lutpub.lut.fi/handle/10024/162253))
 
 Read on for the full paper below.
 
