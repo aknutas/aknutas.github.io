@@ -19,7 +19,7 @@ Knutas, A., Palacin, V., Wolff, A., & Hyrynsalmi, S. (2020). Local Solutions wit
 
 Knutas, A., & Petersen, A. (2019). The Effect of Civic Knowledge and Attitudes on CS Student Work Preferences. In *Proceedings of the 19th Koli Calling International Conference on Computing Education Research (Koli Calling ’19)*. Association for Computing Machinery, New York, NY, USA, Article 37, 1–2. ([ACM](https://doi.org/10.1145/3364510.3366159) \| [Preprint from arXiv](https://arxiv.org/abs/2001.11810))
 
-Knutas, A., Palacin, V., Maccani, G., & Helfert, M. (2019). Software Engineering in Civic Tech: A Case Study about Code for Ireland. In *Proceedings of the 41st International Conference on Software Engineering*. ([ACM](https://dl.acm.org/doi/10.1109/ICSE-SEIS.2019.14) \| [Preprint from arXiv](https://arxiv.org/abs/1904.04104))
+Knutas, A., Palacin, V., Maccani, G., & Helfert, M. (2019). Software Engineering in Civic Tech: A Case Study about Code for Ireland. In *Proceedings of the 41st International Conference on Software Engineering*. ([IEEE Xplore](https://ieeexplore.ieee.org/document/8797637/) \| [Preprint from arXiv](https://arxiv.org/abs/1904.04104))
 
 Palacin-Silva, M. V., Knutas, A., Ferrario, M. A., Porras, J., Ikonen, J., & Chea, C. (2018). The Role of Gamification in Participatory Environmental Sensing: A Study In the Wild. In *Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems*. ACM. ([ACM](https://doi.org/10.1145/3173574.3173795) \| [Preprint from LUTPub](http://urn.fi/URN:NBN:fi-fe201902185282))
 <br/>
@@ -57,7 +57,9 @@ Ikonen, J., Knutas, A., Hämäläinen, H., Ihonen, M., Porras, J., & Kallonen, T
 <br/>
 <br/>
 
-#### Computer-Supported Collaborative Learning and Software Engineering Education
+#### Software Engineering Education and Collaborative Learning
+Grönberg, N., Knutas, A., Hynninen, T., & Hujala, M. (2021). Palaute: An Online Text Mining Tool for Analyzing Written Student Course Feedback. *IEEE Access*, 9, 134518-134529. ([IEEE Xplore](https://dx.doi.org/10.1109/ACCESS.2021.3116425) open access)
+
 Hujala, M., Knutas, A., Hynninen, T., & Arminen, H. (2020). Improving the quality of teaching by utilising written student feedback: A streamlined process. *Computers & Education*, 157, 103965. ([ScienceDirect](https://doi.org/10.1016/j.compedu.2020.103965) \| [Postprint from LUTPub](https://lutpub.lut.fi/handle/10024/161464))
 
 Porras, J., Knutas, A., Ikonen, J., Happonen, A., Khakurel, J., & Herala, A. (2019). Code camps and hackathons in education - literature review and lessons learned. In *Proceedings of the 52nd Hawaii International Conference on System Sciences*. ([ScholarSpace](http://hdl.handle.net/10125/60213) open access)
