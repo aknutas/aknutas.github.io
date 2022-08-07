@@ -21,7 +21,7 @@ You can find more information about my current projects in this website, from my
 ##### Research Groups & Projects
  
  * [ParCos project](https://parcos-project.eu/) - I am currently coordinating the H2020 project on Participatory Communication of Science with my colleague Annika Wolff.
- * [Software Engineering degree program](https://uni.lut.fi/en/web/lut.fi-eng/computer-science) at LUT University - I am currently the head of the BSc. degree program in Software Engineering at LUT University.
+ * [Software Engineering degree program](https://www.lut.fi/fi/opiskelu/tekniikka/tietotekniikan-kandidaattiohjelma) at LUT University - I am currently the head of the BSc. degree program in Software Engineering at LUT University.
 
 ### Cool Projects
 
