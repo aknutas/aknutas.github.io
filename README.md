@@ -1,6 +1,6 @@
 # Blog and homepage
 
-This is the source code for my personal blog. See the rendered version at https://anttiknutas.net/.
+This is the source code for my personal blog. See the rendered version at https://anttiknutas.net/
 
 ## License
 
