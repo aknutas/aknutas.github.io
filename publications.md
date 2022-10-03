@@ -13,7 +13,9 @@ Find a partial list of my academic publications below, sorted by areas of intere
 ---
 
 #### Civic Tech
-Palacin, V., Ferrario, M. A., Hsieh, G., Knutas, A., Wolff, A., & Porras, J. (2021). Human Values and Digital Citizen Science Interactions. International Journal of Human-Computer Studies, 102605. ([ScienceDirect](https://doi.org/10.1016/j.ijhcs.2021.102605) open access) \| DOI: [10.1016/j.ijhcs.2021.102605](10.1016/j.ijhcs.2021.102605)
+Knutas, A., Palacin, V., Maccani, G., Aragon, P., Wolff, A., & Mocek, L. (2022). Civic Code for Social Change: Lessons in Civic Tech Grassroots for Software Engineers. IEEE Software. ([IEEE Xplore](https://doi.org/10.1109/MS.2022.3179670) open access \| DOI: [10.1109/MS.2022.3179670](https://doi.org/10.1109/MS.2022.3179670) )
+
+Palacin, V., Ferrario, M. A., Hsieh, G., Knutas, A., Wolff, A., & Porras, J. (2021). Human Values and Digital Citizen Science Interactions. International Journal of Human-Computer Studies, 102605. ([ScienceDirect](https://doi.org/10.1016/j.ijhcs.2021.102605) open access) \| DOI: [10.1016/j.ijhcs.2021.102605](https://doi.org/10.1016/j.ijhcs.2021.102605)
 
 Knutas, A., Palacin, V., Wolff, A., & Hyrynsalmi, S. (2020). Local Solutions with Global Reach - Can Civic Tech Benefit from Open Source Software Ecosystem Practises? In *CSCW 2020 Workshop on Civic Technologies: Research, Practice, and Open Challenges*. ACM. ([Preprint from LUTPub](https://lutpub.lut.fi/handle/10024/162253) \| [Workshop proceedings](https://arxiv.org/abs/2012.00515))
 
