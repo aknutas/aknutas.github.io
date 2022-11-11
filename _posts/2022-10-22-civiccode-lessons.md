@@ -11,7 +11,7 @@ published: true
 ![Figure: Three Pillars of Civic Coding Best Practices](/assets/img/2022-10-22-civiccode-lessons-pillars.png)
 *Figure: Three Pillars of Civic Coding Best Practices*
 
-Recently we published a scientific magazine article on civic code and what software engineers should know about it. My co-authors and I are quite excited, since the format allows us to condense the highlights from our line of research into a compact "this is what you need to know" package. The article was published in *IEEE Software*, a magazine for software professionals. It's a quick read, so if you find this topic at the intersection of free/open source software and social change of interest, do follow the link below. We also list below some key highlights from the article.
+Read our new magazine article about civic coding and what software engineers should know about it! We're excited about the opportunity, since the format allows us to condense the highlights from our research into a compact "this is what you need to know" package. It's a quick read with no paywall, so if you find this topic at the intersection of free/open source software and social change of interest, do follow the link below. We also list below some key highlights from the article.
 
 - Civic coders can accomplish much, but they are also easily sidelined or harmed by activities done by more structured actors.
 - When working with civic tech communities, it is important to go beyond the usual requirements engineering process and ensure open and equitable participation.
