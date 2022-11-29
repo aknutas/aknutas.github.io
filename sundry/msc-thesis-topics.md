@@ -9,7 +9,7 @@ published: true
 ---
 
 
-Thanks for your interest! I supervise MSc. theses at LUT University for our software engineering (and digital transformation) students. I have listed below some current topics below that match my current research directions. If you find one of these topics to be of interest and are seeking a 1st supervisor, do send me an email.
+Thanks for your interest! I supervise MSc. theses at LUT University for our software engineering (and digital transformation) students. I have listed below some current topics that match my current research directions. If you find one of these topics to be of interest and are seeking a 1st supervisor, do send me an email.
 
 - Developer social networks / open source project networks – how programmers use GitHub
 - Why do developers participate in open source or civic tech? (literature review work)
