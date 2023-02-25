@@ -13,6 +13,8 @@ Find a partial list of my academic publications below, sorted by areas of intere
 ---
 
 #### Civic Tech
+Knutas, A., Siemon, D., Tylosky, N., & Maccani, G. (2023). Contradicting Motivations in Civic Tech Software Development: Analysis of a Grassroots Project. In *Proceedings of the 45st International Conference on Software Engineering*. ([Preprint from arXiv](https://arxiv.org/abs/2302.03469))
+
 Knutas, A., Palacin, V., Maccani, G., Aragon, P., Wolff, A., & Mocek, L. (2022). Civic Code for Social Change: Lessons in Civic Tech Grassroots for Software Engineers. IEEE Software. ([IEEE Xplore](https://doi.org/10.1109/MS.2022.3179670) open access \| DOI: [10.1109/MS.2022.3179670](https://doi.org/10.1109/MS.2022.3179670) )
 
 Palacin, V., Ferrario, M. A., Hsieh, G., Knutas, A., Wolff, A., & Porras, J. (2021). Human Values and Digital Citizen Science Interactions. International Journal of Human-Computer Studies, 102605. ([ScienceDirect](https://doi.org/10.1016/j.ijhcs.2021.102605) open access) \| DOI: [10.1016/j.ijhcs.2021.102605](https://doi.org/10.1016/j.ijhcs.2021.102605)
