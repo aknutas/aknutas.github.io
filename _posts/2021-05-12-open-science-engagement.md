@@ -17,8 +17,6 @@ This report, aimed at academics and academic policy makers, will highlight the b
 
 #### Read more
 
-Read the executive summary at the [ParCos project page](https://parcos-project.eu/2021/05/parcos-policy-brief-participatory-communication-of-science/), or download the full brief below.
-
-Knutas A., Wolff, A., Hudson, L. (2021, draft). ParCos policy brief, deliverable 7.4 of the Horizon 2020 project ParCos, EC grant agreement no 872500, Lappeenranta, Finland. [Download](https://parcos-project.eu/wp-content/uploads/2021/05/parcos-Policy-Brief_web.pdf).
+Knutas A., Wolff, A., Hudson, L. (2021, draft). ParCos policy brief, deliverable 7.4 of the Horizon 2020 project ParCos, EC grant agreement no 872500, Lappeenranta, Finland. [Download](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5db53a9fa&appId=PPGMS).
 
 
