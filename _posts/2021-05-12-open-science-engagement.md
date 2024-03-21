@@ -17,6 +17,10 @@ This report, aimed at academics and academic policy makers, will highlight the b
 
 #### Read more
 
-Knutas A., Wolff, A., Hudson, L. (2021). ParCos policy brief, deliverable 7.4 of the Horizon 2020 project ParCos, EC grant agreement no 872500, Lappeenranta, Finland. [Download](/assets/PDFs/2021-05-12-parcos-policy-brief_web.pdf).
+Knutas A., Wolff, A., Hudson, L. (2021). ParCos policy brief, deliverable 7.4 of the Horizon 2020 project ParCos, EC grant agreement no 872500, Lappeenranta, Finland. [DOI: 10.5281/zenodo.10847996](https://doi.org/10.5281/zenodo.10847997)
+
+#### Download
+
+Download the PDF from the [Zenodo open science repository](https://zenodo.org/doi/10.5281/zenodo.10847996) or the local [mirror copy](/assets/PDFs/2021-05-12-parcos-policy-brief_web.pdf).
 
 
