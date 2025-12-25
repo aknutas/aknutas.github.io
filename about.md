@@ -21,16 +21,16 @@ You can find more information about my current projects in this website, from my
 ##### Research Groups & Projects
  
  * [AMIGOS project](https://amigos-project.eu/) - I am currently the LUT primary investigator in the AMIGOS Horizon Europe project for designing sustainable urban mobility. My research interests link to designing with people and technology processes.
- * [COALESCE](https://coalesceproject.eu/) - the European Competence Centre for Science Communication where my colleague Annika Wolff is the PI.
+ * [TIPS4PED project](https://tips4ped.eu/) - I am the LUT PI in the TIPS4PED Horizon Europe project that will create novel technologies to support municipalities in the implementation of positive energy districts.
  * [Software Engineering degree program](https://www.lut.fi/fi/opiskelu/tekniikka/tietotekniikan-kandidaattiohjelma) at LUT University - I am currently the head of the BSc. degree program in Software Engineering at LUT University.
 
 ### Fun Coding Projects
 
 Some cool projects I have been involved in:
 
-* [Workshop tutorials](https://parcos-project.eu/avi2022/) on open science publication processes for research data and analysis
-* [Palaute system](https://doi.org/10.5281/zenodo.3964072) was a MSc. thesis project from my lab that resulted in a web-based student feedback text mining tool and a related [research paper](https://doi.org/10.1109/ACCESS.2021.3116425).
-* [NAILS project](https://anttiknutas.net/nails/) - cloud-based bibliometric social network analysis.
+* [Workshop tutorials](https://anttiknutas.net/sundry/avi2022-open-science-tutorial/) on open science publication processes for research data and analysis
+* [Palaute system](https://doi.org/10.5281/zenodo.3964072) was a MSc. thesis project from my lab that resulted in a web-based text mining tool and a related [research paper](https://doi.org/10.1109/ACCESS.2021.3116425).
+* [NAILS project](https://anttiknutas.net/nails/) - a cloud-based bibliometric social network analysis. No longer active, but R source code is available.
 * [Ludus Engine](https://github.com/aknutas/ludusengine) - an algorithm for creating adaptive gamification challenges for CSCL environments.
 
 Have questions, proposals or something that we could collaborate on? Drop me a [message in LinkedIn](https://www.linkedin.com/in/anttiknutas/).
