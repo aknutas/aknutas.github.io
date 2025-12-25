@@ -56,7 +56,7 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
+  color: rgba(255,255,255,.75);
   background-color: #202020;
 }
 @media (min-width: 48em) {
@@ -249,4 +249,43 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+
+
+/*
+ * Accessibility improvements
+ *
+ * WCAG 2.1 AA compliance additions
+ */
+
+/* Skip link - visually hidden until focused */
+.skip-link {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background: #202020;
+  color: #fff;
+  padding: 8px 16px;
+  z-index: 100;
+  text-decoration: none;
+}
+.skip-link:focus {
+  top: 0;
+  outline: 2px solid #fff;
+  outline-offset: 2px;
+}
+
+/* Accessible focus indicators */
+a:focus,
+button:focus,
+input:focus,
+textarea:focus,
+select:focus {
+  outline: 2px solid #6a9fb5;
+  outline-offset: 2px;
+}
+
+/* Dark background variant for sidebar */
+.sidebar a:focus {
+  outline-color: #fff;
 }
