@@ -1,23 +1,22 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
-plugins:          [jekyll-paginate, jekyll-gist, jekyll-feed, jekyll-sitemap]
+plugins:          [jekyll-paginate, jekyll-gist, jekyll-feed, jekyll-sitemap, jekyll-seo-tag]
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: false
 
 # Setup
 title:            'Antti Knutas'
 tagline:          'Software engineering researcher. <br/> Human factors, collaboration, civic tech.'
-description:      'Software engineering researcher. <br/> Human factors, collaboration, civic tech.'
-url:              http://anttiknutas.net
+description:      'Software engineering researcher. Human factors, collaboration, civic tech.'
+url:              https://anttiknutas.net
 baseurl:          ''
 
 # Author details
 author:
   name:           'Antti Knutas'
-  url:            http://anttiknutas.net
+  url:            https://anttiknutas.net
 
 # Other settings
 future:           false
@@ -29,3 +28,14 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/aknutas
+
+# External profile links (used in sidebar)
+external_links:
+  - name: Google Scholar
+    url: https://scholar.google.com/citations?user=svyPd-YAAAAJ
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/anttiknutas/
+  - name: LUT Research Portal
+    url: https://research.lut.fi/converis/portal/detail/Person/40268?auxfun=&lang=en_GB
+  - name: Photography
+    url: https://aknutas.kuvat.fi/photos/
