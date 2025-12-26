@@ -17,12 +17,33 @@
 /*
  * Contents
  *
+ * CSS Custom Properties
  * Global resets
  * Sidebar
  * Container
  * Reverse layout
  * Themes
  */
+
+
+/*
+ * CSS Custom Properties
+ *
+ * Define reusable values for colors, spacing, and other design tokens.
+ */
+
+:root {
+  /* Colors */
+  --color-primary: #268bd2;
+  --color-sidebar-bg: #202020;
+  --color-sidebar-text: rgba(255,255,255,.75);
+  --color-sidebar-link: #fff;
+  --color-text: #515151;
+  --color-heading: #313131;
+  --color-border: #eee;
+  --color-bg: #fff;
+  --color-focus: #6a9fb5;
+}
 
 
 /*
@@ -56,8 +77,8 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.75);
-  background-color: #202020;
+  color: var(--color-sidebar-text);
+  background-color: var(--color-sidebar-bg);
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -72,12 +93,12 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  color: #fff;
+  color: var(--color-sidebar-link);
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #fff;
+  color: var(--color-sidebar-link);
   margin-top: 0;
   /* font-family: "Abril Fatface", serif; */
   font-family: "Raleway", serif;
@@ -253,6 +274,19 @@ a.sidebar-nav-item:focus {
 
 
 /*
+ * Transitions
+ *
+ * Smooth color transitions for interactive elements.
+ */
+
+a,
+.pagination-item {
+  transition: color 0.15s ease-in-out,
+              background-color 0.15s ease-in-out;
+}
+
+
+/*
  * Accessibility improvements
  *
  * WCAG 2.1 AA compliance additions
@@ -263,15 +297,15 @@ a.sidebar-nav-item:focus {
   position: absolute;
   top: -40px;
   left: 0;
-  background: #202020;
-  color: #fff;
+  background: var(--color-sidebar-bg);
+  color: var(--color-sidebar-link);
   padding: 8px 16px;
   z-index: 100;
   text-decoration: none;
 }
 .skip-link:focus {
   top: 0;
-  outline: 2px solid #fff;
+  outline: 2px solid var(--color-sidebar-link);
   outline-offset: 2px;
 }
 
@@ -281,11 +315,11 @@ button:focus,
 input:focus,
 textarea:focus,
 select:focus {
-  outline: 2px solid #6a9fb5;
+  outline: 2px solid var(--color-focus);
   outline-offset: 2px;
 }
 
 /* Dark background variant for sidebar */
 .sidebar a:focus {
-  outline-color: #fff;
+  outline-color: var(--color-sidebar-link);
 }
